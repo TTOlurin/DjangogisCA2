@@ -1,0 +1,58 @@
+
+.header {
+    top: 0;
+    font-size: x-large;
+}
+
+.header_footer {
+    background-color: #ffc107;
+    color: white;
+    position: fixed;
+    width: 100%;
+    padding: 5px;
+    left: 0;
+    right: 0;
+    z-index: 2000;
+}
+
+header {
+    display: block;
+}
+
+.fa-bars:before {
+    content: "\f0c9";
+    color: #fff;
+}
+
+
+.btn-secondary {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.btn-secondary:hover, .btn-secondary:active {
+    background-color: darkorange;
+    border-color: darkorange;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu:hover {
+    display: block;
+}
+
+.dropdown-menu {
+    position: absolute;
+    display: none;
+    background-color: #fff;
+    list-style: none;
+    min-width: 160px;
+    z-index: 1000;
+}
+

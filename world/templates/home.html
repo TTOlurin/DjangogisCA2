@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+{% if user.is_authenticated %}
+  Hi {{ user.username }}!
+    <p style="font-family: 'Lucida Sans Typewriter'; font-size: large"><a style="color: hotpink" href="{% url 'map' %}">View Location</a></p>
+  <p style="font-family: 'Lucida Sans Typewriter'; font-size: large"><a style="color: hotpink" href="{% url 'logout' %}">Log Out</a></p>
+{% else %}
+  <p style="font-family: 'Lucida Sans Typewriter'; font-size: large">You are not logged in</p>
+  <a style="font-family: 'Lucida Sans Typewriter'; font-size: large; color: hotpink" href="{% url 'login' %}">Log In</a>
+    <a style="font-family: 'Lucida Sans Typewriter'; font-size: large; color: hotpink" href="{% url 'signup' %}"><br/><br/>Sign Up</a>
+{% endif %}
+{% endblock %}
