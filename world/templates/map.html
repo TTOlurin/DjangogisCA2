@@ -33,7 +33,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="position: absolute;
             inset: 0px 0px auto auto; margin: 0px; transform: translate3d(0px, 42.4px, 0px);"
             data-popper-placement="bottom-end">
-                <a id="show-home-page" class="dropdown-item" href="/">Home</a>
+                <a id="show-home-page" class="dropdown-item" href="{% url 'home' %}">Home</a>
                 <a id="show-map-page" class="dropdown-item valid-user" href="{% url 'map' %}">Map</a>
                 <a id="show-logout" class="dropdown-item valid user" href="{% url 'logout' %}">Log Out</a>
             </div>

@@ -11,10 +11,7 @@ from django.contrib.gis.geos import fromstr
 from django.contrib.gis.db.models.functions import Distance
 #from .models import Restaurants
 
-longitude = -6.3831
-latitude = 53.404639
 
-user_location = Point(latitude,longitude, srid=4326)
 
 # class Home(generic.ListView):
 #     model = Restaurants
