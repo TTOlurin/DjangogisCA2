@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Nearby Restaurants</title>
+    </head>
+<body>
+    <h1>Nearby Restaurants</h1>
+    {% if restaurants %}
+    <ul>
+    {% for restaurant in restaurants %}
+        <li>
+        {{ restaurant.name }} : {{restaurant.address}} : {{restaurant.distance}}
+        </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>

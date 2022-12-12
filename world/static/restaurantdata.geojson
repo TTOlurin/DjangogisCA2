@@ -1,0 +1,6776 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-12-11T22:56:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44075413",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "delivery": "no",
+        "name": "The Old Dining Hall",
+        "old_name:en": "Dining Hall",
+        "old_name:ga": "Halla an Bhia",
+        "opening_hours": "Mo-Fr 12:00-15:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2576827,
+              53.3451627
+            ],
+            [
+              -6.2576936,
+              53.3449194
+            ],
+            [
+              -6.2577615,
+              53.3449205
+            ],
+            [
+              -6.2577648,
+              53.3448945
+            ],
+            [
+              -6.257766,
+              53.3448294
+            ],
+            [
+              -6.2575882,
+              53.3448262
+            ],
+            [
+              -6.2574,
+              53.3448227
+            ],
+            [
+              -6.2573964,
+              53.3448869
+            ],
+            [
+              -6.2573948,
+              53.344919
+            ],
+            [
+              -6.257473,
+              53.3449204
+            ],
+            [
+              -6.2574612,
+              53.3451588
+            ],
+            [
+              -6.2576827,
+              53.3451627
+            ]
+          ]
+        ]
+      },
+      "id": "way/44075413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228284419",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "The Vintage Kitchen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2557578,
+              53.3468671
+            ],
+            [
+              -6.2557514,
+              53.3469599
+            ],
+            [
+              -6.2558361,
+              53.346962
+            ],
+            [
+              -6.2558426,
+              53.3468686
+            ],
+            [
+              -6.2557578,
+              53.3468671
+            ]
+          ]
+        ]
+      },
+      "id": "way/228284419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228287769",
+        "addr:city": "Dublin",
+        "addr:housenumber": "26",
+        "addr:street": "Westmoreland Street",
+        "amenity": "restaurant",
+        "building": "commercial",
+        "cuisine": "chinese",
+        "name": "Good World",
+        "phone": "+353 1 6775373",
+        "survey:date": "2018-08-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2587896,
+              53.3463821
+            ],
+            [
+              -6.2587933,
+              53.3464486
+            ],
+            [
+              -6.2589652,
+              53.3464459
+            ],
+            [
+              -6.2589647,
+              53.3463795
+            ],
+            [
+              -6.2587896,
+              53.3463821
+            ]
+          ]
+        ]
+      },
+      "id": "way/228287769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228762032",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "12",
+        "addr:street": "Capel Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Romano's",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2680847,
+              53.3467785
+            ],
+            [
+              -6.2678742,
+              53.3468085
+            ],
+            [
+              -6.2678933,
+              53.3468559
+            ],
+            [
+              -6.2679195,
+              53.3468521
+            ],
+            [
+              -6.2681025,
+              53.346826
+            ],
+            [
+              -6.2680847,
+              53.3467785
+            ]
+          ]
+        ]
+      },
+      "id": "way/228762032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228762047",
+        "addr:city": "Dublin",
+        "addr:housenumber": "15",
+        "addr:street": "Capel Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "indoor_seating": "yes",
+        "name": "Musashi",
+        "outdoor_seating": "yes",
+        "phone": "+353-1-5328068",
+        "website": "http://www.musashidublin.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2681387,
+              53.3469214
+            ],
+            [
+              -6.2679571,
+              53.3469482
+            ],
+            [
+              -6.2679469,
+              53.3469497
+            ],
+            [
+              -6.2679625,
+              53.3469872
+            ],
+            [
+              -6.2680517,
+              53.346974
+            ],
+            [
+              -6.2680544,
+              53.3469804
+            ],
+            [
+              -6.2681565,
+              53.3469653
+            ],
+            [
+              -6.2681387,
+              53.3469214
+            ]
+          ]
+        ]
+      },
+      "id": "way/228762047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228966389",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "17",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "building": "retail",
+        "cuisine": "chinese;thai",
+        "name": "Noble House"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2650796,
+              53.3440636
+            ],
+            [
+              -6.2651265,
+              53.3440645
+            ],
+            [
+              -6.2651655,
+              53.3440653
+            ],
+            [
+              -6.2651696,
+              53.343862
+            ],
+            [
+              -6.2650878,
+              53.3438604
+            ],
+            [
+              -6.2650796,
+              53.3440636
+            ]
+          ]
+        ]
+      },
+      "id": "way/228966389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228966390",
+        "addr:housenumber": "18",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "building": "retail",
+        "cuisine": "nepalese;indian",
+        "name": "Kathmandu Kitchen",
+        "phone": "+353-1-6111706"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2650796,
+              53.3440636
+            ],
+            [
+              -6.2650878,
+              53.3438604
+            ],
+            [
+              -6.2650008,
+              53.3438588
+            ],
+            [
+              -6.2649914,
+              53.3440619
+            ],
+            [
+              -6.2650796,
+              53.3440636
+            ]
+          ]
+        ]
+      },
+      "id": "way/228966390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/230567943",
+        "addr:city": "Dublin",
+        "addr:housenumber": "3",
+        "addr:street": "Chatham Row",
+        "amenity": "restaurant",
+        "building": "restaurant",
+        "cuisine": "asian",
+        "internet_access": "wlan",
+        "name": "Mao",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2627165,
+              53.3410917
+            ],
+            [
+              -6.2626539,
+              53.3410746
+            ],
+            [
+              -6.262572,
+              53.3410522
+            ],
+            [
+              -6.2625277,
+              53.3411099
+            ],
+            [
+              -6.2624926,
+              53.3411556
+            ],
+            [
+              -6.2626372,
+              53.3411951
+            ],
+            [
+              -6.2626747,
+              53.3411462
+            ],
+            [
+              -6.2627165,
+              53.3410917
+            ]
+          ]
+        ]
+      },
+      "id": "way/230567943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/230567949",
+        "addr:housenumber": "44-45",
+        "addr:street": "William Street South",
+        "amenity": "restaurant",
+        "cuisine": "moroccan",
+        "name": "Dada",
+        "website": "https://www.dadarestaurant.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.26304,
+              53.3413211
+            ],
+            [
+              -6.2630479,
+              53.3413094
+            ],
+            [
+              -6.2630707,
+              53.3412755
+            ],
+            [
+              -6.2630901,
+              53.3412466
+            ],
+            [
+              -6.2630969,
+              53.3412364
+            ],
+            [
+              -6.2629352,
+              53.3411974
+            ],
+            [
+              -6.2628983,
+              53.3411885
+            ],
+            [
+              -6.2628713,
+              53.3412289
+            ],
+            [
+              -6.2628414,
+              53.3412736
+            ],
+            [
+              -6.26304,
+              53.3413211
+            ]
+          ]
+        ]
+      },
+      "id": "way/230567949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233804869",
+        "addr:street": "Liffey Street Lower",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "italian",
+        "name": "Il Fornaio",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2632176,
+              53.346825
+            ],
+            [
+              -6.263089,
+              53.3468399
+            ],
+            [
+              -6.2631068,
+              53.3468973
+            ],
+            [
+              -6.2631302,
+              53.346895
+            ],
+            [
+              -6.2632343,
+              53.3468816
+            ],
+            [
+              -6.2632176,
+              53.346825
+            ]
+          ]
+        ]
+      },
+      "id": "way/233804869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/249260468",
+        "addr:city": "Dublin",
+        "addr:housenumber": "8",
+        "addr:street": "Anne Street South",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Gotham Cafe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2596578,
+              53.3411576
+            ],
+            [
+              -6.2595631,
+              53.3411476
+            ],
+            [
+              -6.2595386,
+              53.3412375
+            ],
+            [
+              -6.2596335,
+              53.3412469
+            ],
+            [
+              -6.2596578,
+              53.3411576
+            ]
+          ]
+        ]
+      },
+      "id": "way/249260468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251168713",
+        "addr:city": "Dublin",
+        "addr:housenumber": "22",
+        "addr:street": "Anglesea Street",
+        "amenity": "restaurant",
+        "building": "house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2617804,
+              53.3453017
+            ],
+            [
+              -6.2617827,
+              53.3452648
+            ],
+            [
+              -6.2615792,
+              53.3452602
+            ],
+            [
+              -6.2615769,
+              53.3452971
+            ],
+            [
+              -6.2617804,
+              53.3453017
+            ]
+          ]
+        ]
+      },
+      "id": "way/251168713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251198077",
+        "addr:city": "Dublin",
+        "addr:housenumber": "7",
+        "addr:street": "Anglesea Street",
+        "amenity": "restaurant",
+        "building": "house",
+        "name": "Mongolian Barbeque",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 162",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2620763,
+              53.3449394
+            ],
+            [
+              -6.2619054,
+              53.3449397
+            ],
+            [
+              -6.2619056,
+              53.3450357
+            ],
+            [
+              -6.2620767,
+              53.3450363
+            ],
+            [
+              -6.2620763,
+              53.3449394
+            ]
+          ]
+        ]
+      },
+      "id": "way/251198077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252812513",
+        "addr:city": "Dublin",
+        "addr:housenumber": "161",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "4",
+        "cuisine": "korean",
+        "email": "kimchi.hophouse@gmail.com",
+        "name": "Kimchi",
+        "phone": "+353 1 872 8318",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2609571,
+              53.3530379
+            ],
+            [
+              -6.26086,
+              53.3529618
+            ],
+            [
+              -6.2607935,
+              53.3529931
+            ],
+            [
+              -6.260889,
+              53.3530681
+            ],
+            [
+              -6.2609571,
+              53.3530379
+            ]
+          ]
+        ]
+      },
+      "id": "way/252812513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260292864",
+        "addr:city": "Dublin",
+        "addr:housenumber": "13",
+        "addr:street": "Wicklow Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "4",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2608356,
+              53.3429514
+            ],
+            [
+              -6.2607484,
+              53.3430463
+            ],
+            [
+              -6.2608497,
+              53.3430738
+            ],
+            [
+              -6.260928,
+              53.342984
+            ],
+            [
+              -6.2608356,
+              53.3429514
+            ]
+          ]
+        ]
+      },
+      "id": "way/260292864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260312368",
+        "addr:city": "Dublin",
+        "addr:housenumber": "3-4",
+        "addr:street": "Saint Andrew Street",
+        "amenity": "restaurant",
+        "name": "Trocadero",
+        "website": "http://www.trocadero.ie/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2617102,
+              53.343286
+            ],
+            [
+              -6.2616936,
+              53.3433435
+            ],
+            [
+              -6.2616838,
+              53.3433773
+            ],
+            [
+              -6.2618181,
+              53.3434372
+            ],
+            [
+              -6.2618498,
+              53.3433647
+            ],
+            [
+              -6.2618752,
+              53.3433065
+            ],
+            [
+              -6.2617102,
+              53.343286
+            ]
+          ]
+        ]
+      },
+      "id": "way/260312368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260313485",
+        "addr:housenumber": "1",
+        "addr:street": "Saint Andrew Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "4",
+        "cuisine": "tapas",
+        "name": "Salamanca",
+        "website": "http://www.salamanca.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2617189,
+              53.3434788
+            ],
+            [
+              -6.2615727,
+              53.3433795
+            ],
+            [
+              -6.261503,
+              53.3434091
+            ],
+            [
+              -6.2616438,
+              53.3435124
+            ],
+            [
+              -6.2617189,
+              53.3434788
+            ]
+          ]
+        ]
+      },
+      "id": "way/260313485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264742301",
+        "addr:city": "Dublin",
+        "addr:housenumber": "52-55",
+        "addr:postcode": "D02 VY15",
+        "addr:street": "Drury Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "email": "reservations@drurybuildings.com",
+        "name": "Drury Buildings",
+        "opening_hours:covid19": "closed",
+        "phone": "+353 1 9602095",
+        "toilets:wheelchair": "yes",
+        "website": "https://drurybuildings.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.263441,
+              53.3419938
+            ],
+            [
+              -6.2635523,
+              53.3418337
+            ],
+            [
+              -6.2635323,
+              53.3418276
+            ],
+            [
+              -6.2634267,
+              53.3418009
+            ],
+            [
+              -6.2633192,
+              53.3419624
+            ],
+            [
+              -6.263441,
+              53.3419938
+            ]
+          ]
+        ]
+      },
+      "id": "way/264742301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268836001",
+        "addr:city": "Dublin",
+        "addr:housenumber": "43",
+        "addr:street": "Dawson Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "name": "Maneki"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2585264,
+              53.3408882
+            ],
+            [
+              -6.2586913,
+              53.3409056
+            ],
+            [
+              -6.258704,
+              53.3408643
+            ],
+            [
+              -6.2585397,
+              53.340847
+            ],
+            [
+              -6.2585264,
+              53.3408882
+            ]
+          ]
+        ]
+      },
+      "id": "way/268836001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268844930",
+        "addr:city": "Dublin",
+        "addr:housenumber": "51b",
+        "addr:street": "Dawson Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Featherblade51",
+        "contact:instagram": "https://instagram.com/featherblade51/",
+        "email": "book@featherblade.ie",
+        "name": "Featherblade",
+        "opening_hours": "Mo-Fr 12:00-15:00,17:00+; Sa 12:00+; Su 13:00-22:00",
+        "phone": "+353-1-6798814",
+        "website": "https://www.featherblade.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2582713,
+              53.3417274
+            ],
+            [
+              -6.258499,
+              53.3417515
+            ],
+            [
+              -6.2585115,
+              53.3417104
+            ],
+            [
+              -6.2582832,
+              53.3416861
+            ],
+            [
+              -6.2582713,
+              53.3417274
+            ]
+          ]
+        ]
+      },
+      "id": "way/268844930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268844932",
+        "addr:city": "Dublin",
+        "addr:housenumber": "51",
+        "addr:street": "Dawson Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/pages/Marco-Pierre-White-Steakhouse-Grill/336008771056",
+        "contact:tripadvisor": "http://www.tripadvisor.com/Restaurant_Review-g186605-d1494288-Reviews-Marco_Pierre_White_Steakhouse_and_Grill-Dublin_County_Dublin.html",
+        "contact:twitter": "https://twitter.com/mpwsteakhouse",
+        "contact:yelp": "http://www.yelp.com/biz/marco-pierre-white-dublin",
+        "cuisine": "steak_house",
+        "email": "dawson@marcopierrewhite.ie",
+        "fax": "+353-1-6706575",
+        "name": "Marco Pierre White",
+        "opening_hours": "Mo-Sa 12:00+; Su 13:00+",
+        "phone": "+353-1-6771155",
+        "toilets:wheelchair": "yes",
+        "website": "http://marcopierrewhite.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2583038,
+              53.3416193
+            ],
+            [
+              -6.2585331,
+              53.3416444
+            ],
+            [
+              -6.2585519,
+              53.3416465
+            ],
+            [
+              -6.2585886,
+              53.3415338
+            ],
+            [
+              -6.2585434,
+              53.3415303
+            ],
+            [
+              -6.2583427,
+              53.3415076
+            ],
+            [
+              -6.2583038,
+              53.3416193
+            ]
+          ]
+        ]
+      },
+      "id": "way/268844932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268846480",
+        "addr:city": "Dublin",
+        "addr:housenumber": "52",
+        "addr:street": "Dawson Street",
+        "amenity": "restaurant",
+        "brand": "Carluccio's",
+        "brand:wikidata": "Q25111797",
+        "brand:wikipedia": "en:Carluccio's Ltd",
+        "building": "yes",
+        "contact:email": "info@carluccios.ie",
+        "cuisine": "italian",
+        "fax": "+353-1-6333987",
+        "name": "Carluccio's",
+        "opening_hours": "Mo-Fr 07:30-22:30, Sa 08:00-22:30, Su 09:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+353-1-6333957",
+        "smoking": "outside",
+        "website": "http://www.carluccios.ie",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2582242,
+              53.341924
+            ],
+            [
+              -6.2584383,
+              53.3419463
+            ],
+            [
+              -6.2584824,
+              53.3419509
+            ],
+            [
+              -6.2584991,
+              53.3418936
+            ],
+            [
+              -6.2582636,
+              53.3418691
+            ],
+            [
+              -6.2582341,
+              53.3418899
+            ],
+            [
+              -6.2582242,
+              53.341924
+            ]
+          ]
+        ]
+      },
+      "id": "way/268846480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269122800",
+        "addr:housenumber": "3",
+        "addr:street": "Dawson Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Farm Restaurant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2577027,
+              53.3424883
+            ],
+            [
+              -6.2577171,
+              53.3424352
+            ],
+            [
+              -6.2575124,
+              53.3424135
+            ],
+            [
+              -6.2574973,
+              53.3424711
+            ],
+            [
+              -6.2577027,
+              53.3424883
+            ]
+          ]
+        ]
+      },
+      "id": "way/269122800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/270976310",
+        "addr:city": "Dublin",
+        "addr:housenumber": "11",
+        "addr:street": "Duke Street",
+        "amenity": "restaurant",
+        "brand": "Carluccio's",
+        "brand:wikidata": "Q25111797",
+        "brand:wikipedia": "en:Carluccio's Ltd",
+        "building": "yes",
+        "contact:email": "info@carluccios.ie",
+        "cuisine": "italian",
+        "fax": "+353 1 6333987",
+        "name": "Carluccio's",
+        "phone": "+353 1 6333957",
+        "website": "http://www.carluccios.ie",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2584991,
+              53.3418936
+            ],
+            [
+              -6.2584824,
+              53.3419509
+            ],
+            [
+              -6.2584743,
+              53.3419738
+            ],
+            [
+              -6.25851,
+              53.3419781
+            ],
+            [
+              -6.2584988,
+              53.342011
+            ],
+            [
+              -6.2585415,
+              53.3420165
+            ],
+            [
+              -6.258581,
+              53.3419038
+            ],
+            [
+              -6.2584991,
+              53.3418936
+            ]
+          ]
+        ]
+      },
+      "id": "way/270976310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273520545",
+        "addr:street": "South Great George's Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "name": "Yamamori",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2647339,
+              53.342867
+            ],
+            [
+              -6.2647416,
+              53.3427691
+            ],
+            [
+              -6.2646131,
+              53.3427633
+            ],
+            [
+              -6.2646024,
+              53.3428631
+            ],
+            [
+              -6.2646338,
+              53.3428641
+            ],
+            [
+              -6.2647339,
+              53.342867
+            ]
+          ]
+        ]
+      },
+      "id": "way/273520545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273647934",
+        "addr:city": "Dublin",
+        "addr:housenumber": "5",
+        "addr:street": "William Street South",
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Jewel in the Crown",
+        "opening_hours": "Mo-Su 12:00-24:00",
+        "wheelchair": "no",
+        "wheelchair:description": "stairs to door"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2621559,
+              53.3428435
+            ],
+            [
+              -6.2622947,
+              53.3428467
+            ],
+            [
+              -6.2622925,
+              53.3428647
+            ],
+            [
+              -6.2623242,
+              53.3428652
+            ],
+            [
+              -6.262337,
+              53.3428479
+            ],
+            [
+              -6.2623597,
+              53.3428192
+            ],
+            [
+              -6.2621894,
+              53.3427775
+            ],
+            [
+              -6.2621559,
+              53.3428435
+            ]
+          ]
+        ]
+      },
+      "id": "way/273647934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273647937",
+        "addr:city": "Dublin",
+        "addr:housenumber": "8-9",
+        "addr:street": "William Street South",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Dakota",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2622572,
+              53.3426737
+            ],
+            [
+              -6.2626036,
+              53.3427599
+            ],
+            [
+              -6.2626697,
+              53.3426653
+            ],
+            [
+              -6.2624657,
+              53.3426145
+            ],
+            [
+              -6.2623233,
+              53.342579
+            ],
+            [
+              -6.2622572,
+              53.3426737
+            ]
+          ]
+        ]
+      },
+      "id": "way/273647937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273647938",
+        "addr:city": "Dublin",
+        "addr:housenumber": "10",
+        "addr:street": "William Street South",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Alfie's",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2623233,
+              53.342579
+            ],
+            [
+              -6.2624657,
+              53.3426145
+            ],
+            [
+              -6.2624852,
+              53.3425857
+            ],
+            [
+              -6.2625121,
+              53.3425924
+            ],
+            [
+              -6.2625252,
+              53.3425737
+            ],
+            [
+              -6.2623571,
+              53.3425315
+            ],
+            [
+              -6.2623233,
+              53.342579
+            ]
+          ]
+        ]
+      },
+      "id": "way/273647938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273652102",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "seafood",
+        "name": "SOLE",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2626959,
+              53.342063
+            ],
+            [
+              -6.2629443,
+              53.3421245
+            ],
+            [
+              -6.2630127,
+              53.342026
+            ],
+            [
+              -6.2629634,
+              53.3420137
+            ],
+            [
+              -6.2627657,
+              53.3419642
+            ],
+            [
+              -6.2626959,
+              53.342063
+            ]
+          ]
+        ]
+      },
+      "id": "way/273652102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273908075",
+        "addr:city": "Dublin",
+        "addr:housenumber": "39-40",
+        "addr:street": "William Street South",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Taste Food Company",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2632263,
+              53.3410445
+            ],
+            [
+              -6.2632564,
+              53.3410013
+            ],
+            [
+              -6.2632837,
+              53.3409621
+            ],
+            [
+              -6.2631175,
+              53.3409195
+            ],
+            [
+              -6.2630577,
+              53.3410024
+            ],
+            [
+              -6.2632263,
+              53.3410445
+            ]
+          ]
+        ]
+      },
+      "id": "way/273908075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273989880",
+        "addr:housenumber": "10",
+        "addr:street": "Westmoreland Street",
+        "amenity": "restaurant",
+        "building": "retail",
+        "name": "Cafe 1920",
+        "old_name": "O'Sullivan's",
+        "website": "https://www.fleethoteltemplebar.com/cafe-1920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2593779,
+              53.3459813
+            ],
+            [
+              -6.2593732,
+              53.3460422
+            ],
+            [
+              -6.2595388,
+              53.3460434
+            ],
+            [
+              -6.2595422,
+              53.3459813
+            ],
+            [
+              -6.2593779,
+              53.3459813
+            ]
+          ]
+        ]
+      },
+      "id": "way/273989880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/274479667",
+        "addr:city": "Dublin",
+        "addr:housenumber": "39",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "The Millstone",
+        "website": "http://www.millstonerestaurant.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2627,
+              53.344124
+            ],
+            [
+              -6.2627787,
+              53.3441212
+            ],
+            [
+              -6.2627676,
+              53.3440096
+            ],
+            [
+              -6.2626889,
+              53.3440124
+            ],
+            [
+              -6.2627,
+              53.344124
+            ]
+          ]
+        ]
+      },
+      "id": "way/274479667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275160196",
+        "addr:city": "Dublin",
+        "addr:housenumber": "11",
+        "addr:street": "Saint Andrew Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "lebanese",
+        "diet:vegetarian": "yes",
+        "name": "The Cedar Tree",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "phone": "+353-1-677-2121",
+        "website": "http://cedartree.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2620849,
+              53.3431954
+            ],
+            [
+              -6.2620619,
+              53.3432458
+            ],
+            [
+              -6.2622101,
+              53.3432722
+            ],
+            [
+              -6.2622345,
+              53.3432211
+            ],
+            [
+              -6.2620849,
+              53.3431954
+            ]
+          ]
+        ]
+      },
+      "id": "way/275160196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275160197",
+        "addr:city": "Dublin",
+        "addr:housenumber": "12",
+        "addr:street": "Saint Andrew Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2620619,
+              53.3432458
+            ],
+            [
+              -6.2620364,
+              53.3433023
+            ],
+            [
+              -6.2621819,
+              53.3433279
+            ],
+            [
+              -6.2622101,
+              53.3432722
+            ],
+            [
+              -6.2620619,
+              53.3432458
+            ]
+          ]
+        ]
+      },
+      "id": "way/275160197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/281357158",
+        "addr:city": "Dublin",
+        "addr:housenumber": "28",
+        "addr:street": "Eustace Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "nepalese",
+        "indoor_seating": "yes",
+        "name": "Montys Of Kathmandu",
+        "opening_hours": "Mo-Sa 12:00-23:00; Su 17:30-22:30",
+        "outdoor_seating": "no",
+        "phone": "01 6704911/915"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2647994,
+              53.3444381
+            ],
+            [
+              -6.2646778,
+              53.3444386
+            ],
+            [
+              -6.2646134,
+              53.3444388
+            ],
+            [
+              -6.2646138,
+              53.3444833
+            ],
+            [
+              -6.2647998,
+              53.3444826
+            ],
+            [
+              -6.2647994,
+              53.3444381
+            ]
+          ]
+        ]
+      },
+      "id": "way/281357158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/294423415",
+        "addr:street": "Saint Andrew Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "thai",
+        "name": "Red Torch Ginger",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2620089,
+              53.3433607
+            ],
+            [
+              -6.2619529,
+              53.343467
+            ],
+            [
+              -6.2621913,
+              53.3435022
+            ],
+            [
+              -6.2622158,
+              53.3433933
+            ],
+            [
+              -6.2621538,
+              53.3433843
+            ],
+            [
+              -6.2620089,
+              53.3433607
+            ]
+          ]
+        ]
+      },
+      "id": "way/294423415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301007196",
+        "addr:city": "Dublin",
+        "addr:housenumber": "83",
+        "addr:street": "Middle Abbey Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "info@govindas.ie",
+        "name": "Govinda's",
+        "opening_hours": "Mo-Sa 12:00-21:00; Su 12:00-19:00",
+        "phone": "+353-1-8727463",
+        "website": "http://www.govindas.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2607763,
+              53.3485109
+            ],
+            [
+              -6.2608081,
+              53.3485066
+            ],
+            [
+              -6.2608731,
+              53.3484983
+            ],
+            [
+              -6.2608247,
+              53.3483449
+            ],
+            [
+              -6.2607242,
+              53.3483553
+            ],
+            [
+              -6.2607763,
+              53.3485109
+            ]
+          ]
+        ]
+      },
+      "id": "way/301007196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/325216524",
+        "addr:city": "Dublin",
+        "addr:housenumber": "22",
+        "addr:street": "Essex Street East",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "O’Reilly’s Temple Bar",
+        "phone": "+353 1 6775222",
+        "website": "http://www.oreillysoftemplebar.ie/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2645115,
+              53.3456179
+            ],
+            [
+              -6.2644745,
+              53.3455367
+            ],
+            [
+              -6.264379,
+              53.345551
+            ],
+            [
+              -6.2644083,
+              53.3456347
+            ],
+            [
+              -6.2645115,
+              53.3456179
+            ]
+          ]
+        ]
+      },
+      "id": "way/325216524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/325217018",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "16",
+        "addr:postal_district": "Dublin 2",
+        "addr:street": "Essex Street East",
+        "amenity": "restaurant",
+        "brand": "Milano",
+        "building": "yes",
+        "cuisine": "pizza",
+        "diet:vegetarian": "yes",
+        "name": "Milano",
+        "name:ko": "밀라노",
+        "opening_hours": "Mo-Th 11:30-23:00; Fr-Sa 11:30-23:30; Su 11:30-23:00",
+        "operator": "Milano",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2649323,
+              53.3455785
+            ],
+            [
+              -6.264899,
+              53.3454991
+            ],
+            [
+              -6.2648886,
+              53.3454866
+            ],
+            [
+              -6.2648672,
+              53.3454812
+            ],
+            [
+              -6.2648027,
+              53.3454878
+            ],
+            [
+              -6.2646581,
+              53.3455094
+            ],
+            [
+              -6.2647033,
+              53.3455951
+            ],
+            [
+              -6.264711,
+              53.3456097
+            ],
+            [
+              -6.2649323,
+              53.3455785
+            ]
+          ]
+        ]
+      },
+      "id": "way/325217018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352989510",
+        "addr:city": "Dublin",
+        "addr:housenumber": "57",
+        "addr:street": "Bolton Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "3",
+        "cuisine": "pizza",
+        "name": "BoCo",
+        "opening_hours": "Tu-Th 16:00-22:00; Fr,Sa 16:00-22:30",
+        "phone": "+353 1 873-0128",
+        "takeaway": "yes",
+        "website": "http://boco.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2699134,
+              53.3513524
+            ],
+            [
+              -6.2701225,
+              53.3514251
+            ],
+            [
+              -6.2701737,
+              53.3513726
+            ],
+            [
+              -6.2699647,
+              53.3512999
+            ],
+            [
+              -6.2699134,
+              53.3513524
+            ]
+          ]
+        ]
+      },
+      "id": "way/352989510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549576985",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "66-67",
+        "addr:street": "George's Street Great South",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Brasserie Sixty6",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.brasseriesixty6.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2646566,
+              53.3425851
+            ],
+            [
+              -6.264823,
+              53.3425955
+            ],
+            [
+              -6.2649018,
+              53.3426
+            ],
+            [
+              -6.2649098,
+              53.3425513
+            ],
+            [
+              -6.2649391,
+              53.3425522
+            ],
+            [
+              -6.2649523,
+              53.3425011
+            ],
+            [
+              -6.2648421,
+              53.3424904
+            ],
+            [
+              -6.2646918,
+              53.3424757
+            ],
+            [
+              -6.2646746,
+              53.3425326
+            ],
+            [
+              -6.2646566,
+              53.3425851
+            ]
+          ]
+        ]
+      },
+      "id": "way/549576985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/660336977",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Winding Stair Restaurant and Bookshop",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2637629,
+              53.3466964
+            ],
+            [
+              -6.26373,
+              53.3465894
+            ],
+            [
+              -6.2635964,
+              53.3466067
+            ],
+            [
+              -6.2636165,
+              53.3466812
+            ],
+            [
+              -6.2636252,
+              53.3467154
+            ],
+            [
+              -6.2637629,
+              53.3466964
+            ]
+          ]
+        ]
+      },
+      "id": "way/660336977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/680878171",
+        "addr:city": "Dublin",
+        "addr:housename": "St.Rotunda",
+        "addr:housenumber": "102",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Lao Chinese and Koren BBQ",
+        "opening_hours": "Mo-Su 10:00-02:00",
+        "phone": "+353 879293917"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2587902,
+              53.3536469
+            ],
+            [
+              -6.2587138,
+              53.3535696
+            ],
+            [
+              -6.2586739,
+              53.3535192
+            ],
+            [
+              -6.2586275,
+              53.353533
+            ],
+            [
+              -6.2586063,
+              53.3535034
+            ],
+            [
+              -6.2585261,
+              53.3535217
+            ],
+            [
+              -6.2585883,
+              53.3536085
+            ],
+            [
+              -6.2586016,
+              53.353631
+            ],
+            [
+              -6.2586426,
+              53.3537006
+            ],
+            [
+              -6.2587902,
+              53.3536469
+            ]
+          ]
+        ]
+      },
+      "id": "way/680878171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689268905",
+        "addr:city": "Dublin",
+        "addr:housenumber": "100",
+        "addr:postcode": "D01 A7P8",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Sichuan Chili King",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2591025,
+              53.3535396
+            ],
+            [
+              -6.259018,
+              53.3534595
+            ],
+            [
+              -6.2588652,
+              53.3535076
+            ],
+            [
+              -6.2589435,
+              53.3535934
+            ],
+            [
+              -6.2591025,
+              53.3535396
+            ]
+          ]
+        ]
+      },
+      "id": "way/689268905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689346945",
+        "addr:city": "Dublin",
+        "addr:housenumber": "100A",
+        "addr:postcode": "D01 DK23",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Lee Kee",
+        "opening_hours": "Mo-Su 11:30-22:30",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2589435,
+              53.3535934
+            ],
+            [
+              -6.258855,
+              53.3535006
+            ],
+            [
+              -6.2587593,
+              53.3535187
+            ],
+            [
+              -6.2588546,
+              53.3536265
+            ],
+            [
+              -6.2589435,
+              53.3535934
+            ]
+          ]
+        ]
+      },
+      "id": "way/689346945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689347365",
+        "addr:housenumber": "107",
+        "addr:postcode": "D01KT62",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Wok Station",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2583759,
+              53.353756
+            ],
+            [
+              -6.2583558,
+              53.3537136
+            ],
+            [
+              -6.258266,
+              53.3537368
+            ],
+            [
+              -6.2582914,
+              53.353772
+            ],
+            [
+              -6.2583759,
+              53.353756
+            ]
+          ]
+        ]
+      },
+      "id": "way/689347365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689347797",
+        "addr:city": "Dublin",
+        "addr:housenumber": "105",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Shi Wang Yun Chinese",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2584618,
+              53.3537384
+            ],
+            [
+              -6.2584269,
+              53.3536887
+            ],
+            [
+              -6.2583558,
+              53.3537136
+            ],
+            [
+              -6.2583759,
+              53.353756
+            ],
+            [
+              -6.2584618,
+              53.3537384
+            ]
+          ]
+        ]
+      },
+      "id": "way/689347797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689348459",
+        "addr:city": "Dublin",
+        "addr:housenumber": "105",
+        "addr:postcode": "D01 W448",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Lee's Charming Noodles",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2586426,
+              53.3537006
+            ],
+            [
+              -6.2586016,
+              53.353631
+            ],
+            [
+              -6.2584736,
+              53.353665
+            ],
+            [
+              -6.2585258,
+              53.353727
+            ],
+            [
+              -6.2586426,
+              53.3537006
+            ]
+          ]
+        ]
+      },
+      "id": "way/689348459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/696901393",
+        "addr:city": "Dublin",
+        "addr:housenumber": "16",
+        "addr:street": "North Earl Street",
+        "amenity": "restaurant",
+        "building": "retail",
+        "cuisine": "chinese",
+        "name": "Xi'An Street Food",
+        "phone": "+353-1-8788180"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2585165,
+              53.3501666
+            ],
+            [
+              -6.2584237,
+              53.3501813
+            ],
+            [
+              -6.2584655,
+              53.3502753
+            ],
+            [
+              -6.2585583,
+              53.3502606
+            ],
+            [
+              -6.2585165,
+              53.3501666
+            ]
+          ]
+        ]
+      },
+      "id": "way/696901393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/696901422",
+        "addr:city": "Dublin",
+        "addr:housenumber": "90-91",
+        "addr:street": "Marlborough Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Istanbel Buffet House"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2582689,
+              53.3500243
+            ],
+            [
+              -6.2583667,
+              53.3500088
+            ],
+            [
+              -6.2583503,
+              53.3499743
+            ],
+            [
+              -6.2583369,
+              53.3499436
+            ],
+            [
+              -6.2583931,
+              53.3499346
+            ],
+            [
+              -6.258373,
+              53.3498864
+            ],
+            [
+              -6.2582207,
+              53.3499092
+            ],
+            [
+              -6.2582689,
+              53.3500243
+            ]
+          ]
+        ]
+      },
+      "id": "way/696901422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/696909148",
+        "addr:city": "Dublin",
+        "addr:housenumber": "17",
+        "addr:street": "O'Connell Street Lower",
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Encha Asian Cuisine",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2595063,
+              53.3487994
+            ],
+            [
+              -6.2594,
+              53.3488146
+            ],
+            [
+              -6.2593836,
+              53.3487756
+            ],
+            [
+              -6.2593199,
+              53.3487856
+            ],
+            [
+              -6.2591724,
+              53.3488087
+            ],
+            [
+              -6.2592165,
+              53.3489093
+            ],
+            [
+              -6.2595328,
+              53.3488621
+            ],
+            [
+              -6.2595063,
+              53.3487994
+            ]
+          ]
+        ]
+      },
+      "id": "way/696909148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/993326913",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:housenumber": "199",
+        "addr:postcode": "D07 PR5X",
+        "addr:street": "North King Street",
+        "amenity": "restaurant",
+        "building": "retail",
+        "contact:facebook": "https://www.facebook.com/Taco-Libre-Dublin-100150439240824",
+        "contact:instagram": "@tacolibredublin",
+        "contact:twitter": "@tacolibredub",
+        "cuisine": "mexican",
+        "drink:beer": "draught",
+        "email": "tacolibre@galwaybaybrewery.com",
+        "name": "Taco Libre",
+        "old_name": "Paddle & Peel",
+        "operator": "Galway Bay Brewing Company",
+        "phone": "+35315344584",
+        "website": "https://galwaybaybrewery.com/tacolibre",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.270133,
+              53.3509667
+            ],
+            [
+              -6.2702569,
+              53.3508767
+            ],
+            [
+              -6.2702136,
+              53.3508555
+            ],
+            [
+              -6.2702055,
+              53.3508515
+            ],
+            [
+              -6.2701626,
+              53.3508827
+            ],
+            [
+              -6.2701184,
+              53.3508842
+            ],
+            [
+              -6.270121,
+              53.3509111
+            ],
+            [
+              -6.2700263,
+              53.3509143
+            ],
+            [
+              -6.270133,
+              53.3509667
+            ]
+          ]
+        ]
+      },
+      "id": "way/993326913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073671864",
+        "addr:city": "Dublin",
+        "addr:housename": "4",
+        "addr:postcode": "D01 X8F8",
+        "addr:street": "Talbot Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese;asian;sushi",
+        "name": "Eatokyo Asian Street Food",
+        "website": "https://eatokyo.ie/eatokyo-talbot-street/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2575075,
+              53.3504207
+            ],
+            [
+              -6.2575863,
+              53.3504084
+            ],
+            [
+              -6.2575443,
+              53.350312
+            ],
+            [
+              -6.2574655,
+              53.3503242
+            ],
+            [
+              -6.2575075,
+              53.3504207
+            ]
+          ]
+        ]
+      },
+      "id": "way/1073671864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1105621202",
+        "addr:city": "Dublin",
+        "addr:housenumber": "11",
+        "addr:postcode": "D02 CD45",
+        "addr:street": "Westmoreland Street",
+        "amenity": "restaurant",
+        "area": "yes",
+        "brand": "TGI Fridays",
+        "brand:wikidata": "Q1524184",
+        "brand:wikipedia": "en:TGI Fridays",
+        "cuisine": "american",
+        "name": "TGI Fridays",
+        "outdoor_seating": "no",
+        "phone": "+353-1-6728975",
+        "website": "https://fridays.ie/locations/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.2593686,
+              53.3461002
+            ],
+            [
+              -6.2595355,
+              53.3461018
+            ],
+            [
+              -6.2596388,
+              53.3461096
+            ],
+            [
+              -6.2597374,
+              53.3459594
+            ],
+            [
+              -6.2597634,
+              53.3459582
+            ],
+            [
+              -6.259758,
+              53.3459093
+            ],
+            [
+              -6.2597504,
+              53.3458467
+            ],
+            [
+              -6.2596645,
+              53.3458543
+            ],
+            [
+              -6.2596735,
+              53.3459622
+            ],
+            [
+              -6.2595388,
+              53.3460434
+            ],
+            [
+              -6.2593732,
+              53.3460422
+            ],
+            [
+              -6.2593686,
+              53.3461002
+            ]
+          ]
+        ]
+      },
+      "id": "way/1105621202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278857702",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Gondola",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.261924,
+          53.345784
+        ]
+      },
+      "id": "node/278857702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278857703",
+        "amenity": "restaurant",
+        "name": "Gogarty's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2611706,
+          53.3457661
+        ]
+      },
+      "id": "node/278857703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279363879",
+        "amenity": "restaurant",
+        "name": "Thunder Road Cafe",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2610506,
+          53.3456141
+        ]
+      },
+      "id": "node/279363879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279912234",
+        "addr:city": "Dublin",
+        "addr:housenumber": "14a-15",
+        "addr:street": "O'Connell Street Upper",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "La Pizza",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.260424,
+          53.3510617
+        ]
+      },
+      "id": "node/279912234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310407193",
+        "addr:housenumber": "7-9",
+        "addr:street": "Exchequer Street",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Ukiyo Bar",
+        "phone": "+353 1 6334071",
+        "website": "https://www.ukiyobar.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2635937,
+          53.3431331
+        ]
+      },
+      "id": "node/310407193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310408465",
+        "addr:city": "Dublin",
+        "addr:housenumber": "14a",
+        "addr:street": "Fade Street",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "name": "The Market Bar",
+        "opening_hours": "Mo-Th 12:00-23:30, Fr-Sa 12:00-01:30, Su 12:00-23:00",
+        "phone": "+353 1 6139094",
+        "website": "http://www.marketbar.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2640639,
+          53.3420622
+        ]
+      },
+      "id": "node/310408465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310409691",
+        "amenity": "restaurant",
+        "name": "Saba",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2617983,
+          53.3412533
+        ]
+      },
+      "id": "node/310409691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/434153497",
+        "addr:housenumber": "74",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza",
+        "indoor_seating": "yes",
+        "name": "Forno 500",
+        "old_name": "Les Frères Jacques",
+        "outdoor_seating": "yes",
+        "phone": "+353 1 6794555",
+        "toilets:wheelchair": "no",
+        "website": "http://www.lesfreresjacques.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2662783,
+          53.3442968
+        ]
+      },
+      "id": "node/434153497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/446781985",
+        "addr:housenumber": "11-17",
+        "addr:street": "Exchequer Street",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Fallon & Byrne",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "website": "http://www.fallonandbyrne.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634071,
+          53.3431285
+        ]
+      },
+      "id": "node/446781985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/446782461",
+        "amenity": "restaurant",
+        "name": "La Maison",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.262919,
+          53.3422837
+        ]
+      },
+      "id": "node/446782461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/446782627",
+        "addr:housenumber": "4-5",
+        "addr:street": "Castle Market",
+        "amenity": "restaurant",
+        "name": "Smokin Bones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2628244,
+          53.3424029
+        ]
+      },
+      "id": "node/446782627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/446782704",
+        "addr:city": "Dublin",
+        "addr:housenumber": "1",
+        "addr:street": "Fade Street",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "L'Gueuleton",
+        "opening_hours": "Mo-Sa 12:30-15:30,17:30-10:00, Su 12:00-15:30,17:30-09:00",
+        "phone": "+353 1 6753708",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.lgueuleton.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2643415,
+          53.3419302
+        ]
+      },
+      "id": "node/446782704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/480606968",
+        "addr:city": "Dublin",
+        "addr:housenumber": "24",
+        "addr:street": "Ormond Quay Lower",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "taverna@wallacewinebars.ie",
+        "name": "Wallace's Taverna",
+        "opening_hours": "Mo-Sa 12:30-22:30, Su 12:30-22:00",
+        "phone": "+353 1 8730040",
+        "smoking": "outside",
+        "website": "http://www.wallacewinebars.ie/?page_id=43",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2651705,
+          53.3463913
+        ]
+      },
+      "id": "node/480606968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/559485126",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:housenumber": "20-21",
+        "addr:postcode": "D02 ET66",
+        "addr:street": "Temple Bar",
+        "amenity": "restaurant",
+        "contact:email": "info@boxtyhouse.ie",
+        "name": "Gallagher’s Boxty House",
+        "phone": "+353 1 6772762",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2621275,
+          53.3456973
+        ]
+      },
+      "id": "node/559485126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/559854611",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "12-13",
+        "addr:street": "George's Street Great South",
+        "amenity": "restaurant",
+        "contact:website": "https://www.yamamori.ie",
+        "cuisine": "japanese",
+        "diet:vegetarian": "yes",
+        "email": "info@yamamoriizakaya.ie",
+        "name": "Yamamori Izakaya",
+        "opening_hours": "Mo-Su 17:30-03:00",
+        "phone": "+353 1 6458001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2641995,
+          53.3433117
+        ]
+      },
+      "id": "node/559854611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/559854619",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "7",
+        "addr:street": "George's Street Great South",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Acapulco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2641941,
+          53.3435983
+        ]
+      },
+      "id": "node/559854619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567736394",
+        "addr:housenumber": "11",
+        "addr:street": "Essex Street East",
+        "amenity": "restaurant",
+        "name": "Falafel and Kebab;Falafel",
+        "name:en": "Falafel and Kebab",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2659945,
+          53.3451971
+        ]
+      },
+      "id": "node/567736394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/567740010",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegetarian": "yes",
+        "name": "Al Vesuvio",
+        "opening_hours": "Mo-Th 16:00-22:00; Fr 13:00-17:00; Su 13:00-22:00",
+        "website": "http://www.alvesuviodublin.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2651292,
+          53.3448713
+        ]
+      },
+      "id": "node/567740010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/631808699",
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "Madegg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2655313,
+          53.347264
+        ]
+      },
+      "id": "node/631808699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/631808713",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "KOH",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2655927,
+          53.3474282
+        ]
+      },
+      "id": "node/631808713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/631815620",
+        "addr:housenumber": "22-24",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Ciao Bella Roma",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.267717,
+          53.3450511
+        ]
+      },
+      "id": "node/631815620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/631980911",
+        "amenity": "restaurant",
+        "name": "Botticelli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2653484,
+          53.3468307
+        ]
+      },
+      "id": "node/631980911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632980279",
+        "addr:housenumber": "26",
+        "addr:street": "Ormond Quay Lower",
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "email": "info@baritalia.ie",
+        "name": "Bar Italia",
+        "phone": "+35318741000",
+        "website": "https://www.baritalia.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2649768,
+          53.3464093
+        ]
+      },
+      "id": "node/632980279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/632980303",
+        "amenity": "restaurant",
+        "name": "Eden",
+        "phone": "+353 1 670 3330",
+        "website": "http://www.edenrestaurant.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2656383,
+          53.3449807
+        ]
+      },
+      "id": "node/632980303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/634585053",
+        "addr:housenumber": "14",
+        "addr:street": "Dame Court",
+        "amenity": "restaurant",
+        "name": "Odessa",
+        "phone": "+353 1 670 7634",
+        "website": "http://www.odessa.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263869,
+          53.343528
+        ]
+      },
+      "id": "node/634585053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/642439081",
+        "addr:city": "Dublin",
+        "addr:housenumber": "3",
+        "addr:street": "Temple Bar",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Botticelli",
+        "website": "http://www.botticelli.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2640776,
+          53.3456106
+        ]
+      },
+      "id": "node/642439081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/650211990",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "Soup 2",
+        "phone": "0830119384",
+        "smoking": "no",
+        "website": "https://soupramen.ie/soup-2-smithfield",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2748187,
+          53.3502119
+        ]
+      },
+      "id": "node/650211990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/650240084",
+        "amenity": "restaurant",
+        "name": "The candy cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634715,
+          53.3547067
+        ]
+      },
+      "id": "node/650240084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/650240121",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Kingfisher Restaurant",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2633561,
+          53.3518257
+        ]
+      },
+      "id": "node/650240121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/664033535",
+        "amenity": "restaurant",
+        "name": "Burdock's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263421,
+          53.3476654
+        ]
+      },
+      "id": "node/664033535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/676833912",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "3",
+        "addr:street": "Talbot Place",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Thai Spice",
+        "phone": "+353 1 8550226",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2511177,
+          53.3509762
+        ]
+      },
+      "id": "node/676833912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/681428076",
+        "addr:city": "Dublin",
+        "addr:housenumber": "14-16",
+        "addr:street": "South Frederick Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "delivery": "no",
+        "name": "Dunne & Crescenzi",
+        "opening_hours": "Mo-Sa 08:00-23:00; Su 09:00-23:00",
+        "phone": "+353-1-675-9892",
+        "takeaway": "yes",
+        "website": "https://www.dunneandcrescenzi.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2566543,
+          53.3422791
+        ]
+      },
+      "id": "node/681428076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/703871333",
+        "addr:postcode": "D01 KR53",
+        "addr:street": "Marlborough Street",
+        "amenity": "restaurant",
+        "name": "The Admiral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2590685,
+          53.3522955
+        ]
+      },
+      "id": "node/703871333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768516172",
+        "addr:city": "Dublin",
+        "addr:housenumber": "1",
+        "addr:street": "Palace Street",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "indoor_seating": "yes",
+        "name": "Chez Max",
+        "outdoor_seating": "yes",
+        "phone": "+353 1 6337215",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2662912,
+          53.3438383
+        ]
+      },
+      "id": "node/768516172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/862072861",
+        "addr:city": "Dublin",
+        "addr:housenumber": "40",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Fiorentina",
+        "opening_hours": "Mo-Sa 12:00-23:30, Su 17:00-22:30",
+        "phone": "+353 1 6351922",
+        "website": "http://fiorentina.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2674716,
+          53.344205
+        ]
+      },
+      "id": "node/862072861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/877772681",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "delivery": "no",
+        "name": "The Buttery Food Court",
+        "old_name:en": "The Buttery",
+        "old_name:ga": "An Butrach",
+        "opening_hours": "Mo-Th 07:30-16:00, Fr 07:30-15:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2573794,
+          53.3449821
+        ]
+      },
+      "id": "node/877772681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/880897739",
+        "amenity": "restaurant",
+        "name": "Taste at Rustic",
+        "name:en": "Rustic Stone",
+        "website": "http://www.rusticstone.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2641927,
+          53.3428831
+        ]
+      },
+      "id": "node/880897739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/911182454",
+        "amenity": "restaurant",
+        "name": "Urban Picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2640325,
+          53.3424255
+        ]
+      },
+      "id": "node/911182454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940033662",
+        "amenity": "restaurant",
+        "name": "TOSS'D Noodles & Salads",
+        "opening_hours": "Mo-Fr 07:00-19:00",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "public toilet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2478273,
+          53.348609
+        ]
+      },
+      "id": "node/940033662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1082061533",
+        "addr:street": "Wellington Quay",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "The Italian Corner",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2649227,
+          53.3456425
+        ]
+      },
+      "id": "node/1082061533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1226187226",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "45",
+        "addr:street": "Capel Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:vegetarian": "yes",
+        "name": "Hilan",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2688011,
+          53.3487762
+        ]
+      },
+      "id": "node/1226187226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1243148216",
+        "addr:city": "Dublin",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Cafe Topolis",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2674801,
+          53.3442569
+        ]
+      },
+      "id": "node/1243148216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1349656232",
+        "addr:housenumber": "68",
+        "addr:street": "Dorset Street Upper",
+        "amenity": "restaurant",
+        "name": "Bleecker Street Cafe Bar",
+        "outdoor_seating": "no",
+        "phone": "+353  1 804 4459",
+        "website": "https://www.facebook.com/BleeckerStreetCafeBar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2638778,
+          53.3572202
+        ]
+      },
+      "id": "node/1349656232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1357754366",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Luigi Malones",
+        "opening_hours": "Mo-Sa 12:00-23:00+; Su 13:00-23:00+",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634505,
+          53.3450322
+        ]
+      },
+      "id": "node/1357754366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1399561327",
+        "addr:city": "Dublin",
+        "addr:street": "Millennium Walkway",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Enoteca delle Langhe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2652915,
+          53.3466089
+        ]
+      },
+      "id": "node/1399561327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1418490827",
+        "addr:housenumber": "27",
+        "addr:street": "Exchequer Street",
+        "amenity": "restaurant",
+        "name": "Boulevard Cafe",
+        "phone": "+353 1 6792131",
+        "website": "https://www.boulevardcafe.ie/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Narrow entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.262863,
+          53.343091
+        ]
+      },
+      "id": "node/1418490827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1419171136",
+        "addr:city": "Dublin",
+        "addr:street": "Lord Edward Street",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Copper Alley Bistro",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2699958,
+          53.3437264
+        ]
+      },
+      "id": "node/1419171136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1423559522",
+        "addr:city": "Dublin",
+        "addr:housenumber": "9-11",
+        "addr:street": "Crown Alley",
+        "amenity": "restaurant",
+        "cuisine": "burger;pizza",
+        "email": "info@badassdublin.com",
+        "name": "Bad Ass Cafe",
+        "opening_hours": "Mo-We 12:00-24:00; Th 12:00-01:00; Fr 12:00-01:30; Sa 09:00-01:30; Su 09:00-24:00",
+        "phone": "+353-1-675-3005",
+        "start_date": "1983",
+        "website": "http://badassdublin.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2629298,
+          53.3453217
+        ]
+      },
+      "id": "node/1423559522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1426051341",
+        "amenity": "restaurant",
+        "name": "Cactus Jacks",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2652219,
+          53.347023
+        ]
+      },
+      "id": "node/1426051341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1512567285",
+        "addr:housenumber": "34",
+        "addr:street": "Castle Street",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/Toffoli-153882851315585/",
+        "cuisine": "pizza",
+        "name": "Bottega Toffoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2692841,
+          53.3433598
+        ]
+      },
+      "id": "node/1512567285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712111505",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "101 Talbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2572535,
+          53.3501869
+        ]
+      },
+      "id": "node/1712111505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712116680",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Le Bon Crubeen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2549726,
+          53.3505551
+        ]
+      },
+      "id": "node/1712116680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1824629835",
+        "addr:city": "Dublin",
+        "addr:housenumber": "12",
+        "addr:street": "Fleet Street",
+        "amenity": "restaurant",
+        "brand": "Hard Rock Cafe",
+        "brand:wikidata": "Q918151",
+        "brand:wikipedia": "en:Hard Rock Cafe",
+        "cuisine": "american",
+        "name": "Hard Rock Cafe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2607214,
+          53.345781
+        ]
+      },
+      "id": "node/1824629835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1857776021",
+        "addr:city": "Dublin",
+        "addr:housenumber": "18",
+        "addr:street": "South Great George's Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Good World Restaurant",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2642249,
+          53.3428318
+        ]
+      },
+      "id": "node/1857776021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981719837",
+        "addr:city": "Dublin",
+        "addr:housename": "Chester Beatty Library",
+        "addr:postcode": "D02 AD92",
+        "addr:street": "Dublin Castle",
+        "amenity": "restaurant",
+        "contact:website": "http://www.silkroadkitchen.ie/silk-road-cafe.html",
+        "cuisine": "mediterranean",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Silk Road Cafe",
+        "opening_hours": "Mo-Fr 10:00-16:30, Sa 11:00-16:30, Su 13:00-16:30",
+        "outdoor_seating": "yes",
+        "reservation": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2674266,
+          53.3422878
+        ]
+      },
+      "id": "node/1981719837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2004657419",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "D07 HP40",
+        "addr:street": "Chancery Place",
+        "amenity": "restaurant",
+        "name": "The Legal Eagle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.272153,
+          53.3458283
+        ]
+      },
+      "id": "node/2004657419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2011319335",
+        "addr:city": "Dublin",
+        "addr:housenumber": "4",
+        "addr:street": "Fade Street",
+        "amenity": "restaurant",
+        "name": "Fade Street Social",
+        "opening_hours": "Mo-Th 12:30-14:30,17:00-22:30, Fr 12:30-14:30,17:00-23:00, Sa 13:00-23:00, Su 13:00-22:30",
+        "phone": "+353 1 1 6040066",
+        "website": "https://www.fadestreetsocial.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2639536,
+          53.3418336
+        ]
+      },
+      "id": "node/2011319335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2074541497",
+        "amenity": "restaurant",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "brand:wikipedia": "en:Nando's",
+        "cuisine": "chicken;portuguese",
+        "name": "Nando's",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2673259,
+          53.3487766
+        ]
+      },
+      "id": "node/2074541497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2242977447",
+        "addr:city": "Dublin",
+        "addr:housenumber": "2",
+        "addr:street": "Crow Street",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "FX Buckley Crow Street",
+        "opening_hours": "Mo-Su 17:00-23:00",
+        "phone": "+353 1 6711248",
+        "website": "http://crow-st.fxbuckley.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2639185,
+          53.3445295
+        ]
+      },
+      "id": "node/2242977447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2302620399",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Bóbó's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2639367,
+          53.3442968
+        ]
+      },
+      "id": "node/2302620399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2317007276",
+        "addr:city": "Dublin",
+        "addr:housenumber": "51",
+        "addr:postcode": "D02 NH04",
+        "addr:street": "Wellington Quay",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Eatokyo",
+        "opening_hours": "Mo-Th, Su 12:00-22:00; Fr, Sa 12:00-23:00",
+        "website": "https://eatokyo.ie",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2626275,
+          53.3459765
+        ]
+      },
+      "id": "node/2317007276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2385329697",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Agave",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2690269,
+          53.3437082
+        ]
+      },
+      "id": "node/2385329697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386544168",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "email": "info@bunsen.ie",
+        "name": "Bunsen",
+        "old_name": "Nicos",
+        "outdoor_seating": "no",
+        "website": "https://www.bunsen.ie/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2642116,
+          53.3442911
+        ]
+      },
+      "id": "node/2386544168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2395993659",
+        "amenity": "restaurant",
+        "name": "Gallaher & Co. Bistro",
+        "opening_hours": "Su-We 10:00-22:00, Th-Sa 10:00-23:00",
+        "website": "http://www.gallahersbistro.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2571938,
+          53.3459935
+        ]
+      },
+      "id": "node/2395993659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2419700347",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:housenumber": "18-19",
+        "addr:postcode": "D02 HY86",
+        "addr:street": "Temple Bar",
+        "amenity": "restaurant",
+        "email": "TempleBarMOD@elephantandcastle.ie",
+        "name": "Elephant & Castle",
+        "website": "https://elephantandcastle.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2622517,
+          53.345689
+        ]
+      },
+      "id": "node/2419700347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2422229524",
+        "amenity": "restaurant",
+        "name": "Cleaver East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.266568,
+          53.3451369
+        ]
+      },
+      "id": "node/2422229524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2507763504",
+        "addr:city": "Dublin",
+        "addr:street": "Eden Quay",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Jimmy Chung's",
+        "opening_hours": "Mo-Su 11:45-22:30",
+        "phone": "+353 1 8740888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2584627,
+          53.3478871
+        ]
+      },
+      "id": "node/2507763504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2522590878",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "13-14",
+        "addr:street": "Cathedral Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "M & L Chinese Restaurant",
+        "phone": "+353 1 874 8038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2595379,
+          53.3506474
+        ]
+      },
+      "id": "node/2522590878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2556999486",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Indie Dhaba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2595039,
+          53.3408606
+        ]
+      },
+      "id": "node/2556999486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2574576941",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Chili Club",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2596606,
+          53.3408789
+        ]
+      },
+      "id": "node/2574576941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2629795114",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Doppio Zero",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2676661,
+          53.3472784
+        ]
+      },
+      "id": "node/2629795114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2679418032",
+        "addr:street": "Clarendon Street",
+        "amenity": "restaurant",
+        "brand": "YO! Sushi",
+        "brand:wikidata": "Q3105441",
+        "brand:wikipedia": "en:YO! Sushi",
+        "cuisine": "sushi",
+        "name": "YO! Sushi",
+        "opening_hours": "Mo-We 12:00-21:00; Th-Sa 12:00-22:00; Su 13:00-21:00",
+        "phone": "+353-1-672 8950",
+        "website": "https://yosushi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2610483,
+          53.3424988
+        ]
+      },
+      "id": "node/2679418032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2681836811",
+        "amenity": "restaurant",
+        "name": "The Pig's Ear",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2549962,
+          53.3421617
+        ]
+      },
+      "id": "node/2681836811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2712286982",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "indoor_seating": "yes",
+        "name": "Corfu",
+        "outdoor_seating": "no",
+        "website": "http://www.corfugreekrestaurant.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2673557,
+          53.3447297
+        ]
+      },
+      "id": "node/2712286982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2757007323",
+        "addr:city": "Dublin",
+        "addr:street": "O'Connell Street Upper",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "10 Thousand Restaurant",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2614694,
+          53.3513969
+        ]
+      },
+      "id": "node/2757007323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2783587541",
+        "addr:city": "Dublin",
+        "addr:housename": "Wicklow House",
+        "addr:street": "George's Street Great South",
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "diet:gluten_free": "yes",
+        "fixme": "Position estimated",
+        "name": "Pitt Bros",
+        "opening_hours": "Mo-Fr 12:00-24:00; Sa,Su 12:30-24:00",
+        "phone": "+353-1-6778777",
+        "website": "https://www.pittbrosbbq.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2646731,
+          53.3435344
+        ]
+      },
+      "id": "node/2783587541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826462463",
+        "addr:city": "Dublin",
+        "addr:street": "Suffolk Street",
+        "amenity": "restaurant",
+        "brand": "Zizzi",
+        "brand:wikidata": "Q8072944",
+        "brand:wikipedia": "en:Zizzi",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Zizzi",
+        "old": "Pizza Hut",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603559,
+          53.3434544
+        ]
+      },
+      "id": "node/2826462463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826463354",
+        "addr:city": "Dublin",
+        "addr:street": "Suffolk Street",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "indoor_seating": "yes",
+        "name": "The Counter",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2600742,
+          53.3433472
+        ]
+      },
+      "id": "node/2826463354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826465463",
+        "addr:city": "Dublin",
+        "addr:street": "Suffolk Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Tolteca",
+        "outdoor_seating": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2601681,
+          53.3433808
+        ]
+      },
+      "id": "node/2826465463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826472115",
+        "addr:city": "Dublin",
+        "addr:street": "Suffolk Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Pacino's",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2599267,
+          53.3432975
+        ]
+      },
+      "id": "node/2826472115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2829999073",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "The Old Storehouse",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2626962,
+          53.345219
+        ]
+      },
+      "id": "node/2829999073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2860088689",
+        "addr:city": "Dublin",
+        "addr:housenumber": "19-20",
+        "addr:street": "Wicklow Street",
+        "amenity": "restaurant",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Cornucopia",
+        "opening_hours": "Mo-Sa 08:30-22:00; Su 12:00-22:00",
+        "phone": "+353-1-677-7583",
+        "shop": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.cornucopia.ie/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2614859,
+          53.3431027
+        ]
+      },
+      "id": "node/2860088689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2909377975",
+        "amenity": "restaurant",
+        "name": "The Pig & Heifer",
+        "opening_hours": "Mo-Fr 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2498025,
+          53.3469973
+        ]
+      },
+      "id": "node/2909377975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2924856981",
+        "addr:city": "Dublin",
+        "addr:housenumber": "162",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "contact:phone": "+353-1-8783165",
+        "cuisine": "vietnamese",
+        "name": "Pho Viet",
+        "opening_hours": "Mo-Th,Su 12:00-22:00; Fr-Sa 12:00-23:00",
+        "website": "https://www.phoviet.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2609111,
+          53.352968
+        ]
+      },
+      "id": "node/2924856981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2988253829",
+        "amenity": "restaurant",
+        "name": "Pichet",
+        "phone": "+353 1 6771060",
+        "website": "http://www.pichetrestaurant.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.262327,
+          53.3438429
+        ]
+      },
+      "id": "node/2988253829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2997622560",
+        "addr:city": "Dublin",
+        "addr:street": "George's Street Great South",
+        "amenity": "restaurant",
+        "name": "Havana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2646759,
+          53.3434063
+        ]
+      },
+      "id": "node/2997622560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3053172444",
+        "addr:city": "Dublin",
+        "addr:street": "Marlborough Street",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/www.kanoodle.ie",
+        "contact:phone": "+353 01 5588999",
+        "contact:twitter": "https://twitter.com/lovekanoodle",
+        "contact:website": "http://www.kanoodle.ie/",
+        "cuisine": "asian",
+        "diet:gluten_free": "yes",
+        "name": "Kanoodle",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2594508,
+          53.3532944
+        ]
+      },
+      "id": "node/3053172444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3088074383",
+        "addr:city": "Dublin",
+        "addr:housenumber": "15",
+        "addr:street": "Fade Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Duck - Hong Kong BBQ",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "website": "http://duck.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2639699,
+          53.3420321
+        ]
+      },
+      "id": "node/3088074383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3092066447",
+        "addr:city": "Dublin",
+        "addr:street": "Christchurch Place",
+        "amenity": "restaurant",
+        "name": "FX Buckley Steakhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2699499,
+          53.3434669
+        ]
+      },
+      "id": "node/3092066447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3125460192",
+        "addr:city": "Dublin",
+        "addr:housenumber": "3",
+        "addr:street": "Cork Hill",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "fax": "+353-1-6708898",
+        "indoor_seating": "yes",
+        "name": "Toscana",
+        "opening_hours": "Mo-Su 12:00-24:00+",
+        "outdoor_seating": "no",
+        "phone": "+353-1-6709785",
+        "smoking": "no",
+        "website": "http://www.toscanarestaurant.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2675693,
+          53.3441797
+        ]
+      },
+      "id": "node/3125460192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3125460194",
+        "addr:city": "Dublin",
+        "addr:housenumber": "76",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "name": "Mykonos Taverna",
+        "phone": "+353 1 561 3745",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.mykonosdublin.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2665157,
+          53.3442944
+        ]
+      },
+      "id": "node/3125460194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3125979848",
+        "addr:city": "Dublin",
+        "addr:housenumber": "65",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Hailan Korean Restaurant",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2655032,
+          53.3442744
+        ]
+      },
+      "id": "node/3125979848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3126144735",
+        "addr:city": "Dublin",
+        "addr:housenumber": "7",
+        "addr:street": "Westmoreland Street",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Thai Orchid",
+        "opening_hours": "Mo-Th 12:00-16:00,17:00-22:30; Fr-Sa 12:00-16:00,17:00-23:00; Su 14:00-16:00,17:00-22:30",
+        "phone": "+353-1-671-9969",
+        "website": "http://thaiorchiddublin.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2594801,
+          53.3457189
+        ]
+      },
+      "id": "node/3126144735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3181936844",
+        "amenity": "restaurant",
+        "name": "The 1592 Restaurant",
+        "name:ga": "Bialann 1592",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2577088,
+          53.3448696
+        ]
+      },
+      "id": "node/3181936844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3224845405",
+        "amenity": "restaurant",
+        "name": "IFI Café Bar",
+        "name:en": "IFI Café Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2651355,
+          53.344565
+        ]
+      },
+      "id": "node/3224845405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3359270763",
+        "addr:city": "Dublin",
+        "addr:housenumber": "33",
+        "addr:street": "Exchequer Street",
+        "amenity": "restaurant",
+        "email": "info@thegreenhen.ie",
+        "name": "The Green Hen",
+        "phone": "+353 1 6707238",
+        "website": "https://www.thegreenhen.ie/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2624077,
+          53.3431085
+        ]
+      },
+      "id": "node/3359270763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3466015126",
+        "addr:city": "Dublin",
+        "addr:housenumber": "130",
+        "addr:street": "Parnell Street",
+        "amenity": "restaurant",
+        "cuisine": "african",
+        "name": "Havilah African Kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2581012,
+          53.3540669
+        ]
+      },
+      "id": "node/3466015126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3466369331",
+        "addr:city": "Dublin",
+        "addr:housenumber": "34",
+        "addr:street": "Dame Street",
+        "amenity": "restaurant",
+        "contact:twitter": "http://twitter.com/smokinbonesie",
+        "cuisine": "barbecue",
+        "email": "info@smokinbones.ie",
+        "name": "Smokin' Bones",
+        "opening_hours": "Mo-Sa 12:00-22:00, Su 14:00-21:00",
+        "phone": "+353 1 5591722",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2632789,
+          53.3440811
+        ]
+      },
+      "id": "node/3466369331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3477073366",
+        "addr:city": "Dublin",
+        "addr:street": "Ormond Quay Lower",
+        "amenity": "restaurant",
+        "email": "info@morrisonhotel.ie",
+        "fax": "+353 1 8744039",
+        "name": "Quay 14",
+        "opening_hours": "Mo-Th 09:00-23:30, Fr-Sa 09:00-00:30, Su 09:00-23:00",
+        "phone": "+353 1 8872400",
+        "smoking": "outside",
+        "website": "http://www.morrisonhotel.ie/en/quay-14.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2659879,
+          53.346323
+        ]
+      },
+      "id": "node/3477073366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3477082225",
+        "addr:city": "Dublin",
+        "addr:housenumber": "21",
+        "addr:street": "Ormond Quay Lower",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/panembakerycoffeeshop",
+        "contact:twitter": "https://twitter.com/PanemDublin",
+        "cuisine": "coffee_shop",
+        "email": "info@panem.ie",
+        "name": "Panem",
+        "opening_hours": "Mo-Fr 08:15-17:30, Sa 09:00-17:30, Su 10:00-17:30",
+        "phone": "+353 1 8728510",
+        "smoking": "outside",
+        "website": "http://panem.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2654786,
+          53.3463639
+        ]
+      },
+      "id": "node/3477082225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3660055474",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Seven Wonders",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2480799,
+          53.3487587
+        ]
+      },
+      "id": "node/3660055474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3774230657",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Cafe Cucina",
+        "opening_hours": "Mo-Th 12:00-22:00; Fr 12:00-22:30; Sa 13:00-22:30; Su 13:00-22:00",
+        "website": "http://cucinarestaurantdublin.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2661394,
+          53.3502781
+        ]
+      },
+      "id": "node/3774230657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3777373708",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "Han Sung",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 12:00-19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2650425,
+          53.3468128
+        ]
+      },
+      "id": "node/3777373708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3889731228",
+        "addr:city": "Dublin",
+        "addr:housenumber": "17b",
+        "addr:place": "Temple Bar",
+        "addr:postcode": "D02 C446",
+        "addr:street": "Asdill's Row",
+        "amenity": "restaurant",
+        "name": "The Jazz Cafe",
+        "opening_hours": "Tu-Fr 12:00-23:00; Sa 17:00-23:00; Su 12:00-18:00",
+        "phone": "+353 1 642 7251",
+        "website": "http://www.thejazzcafedublin.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2626181,
+          53.3458284
+        ]
+      },
+      "id": "node/3889731228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046019696",
+        "addr:city": "Dublin",
+        "addr:housenumber": "43",
+        "addr:street": "Pearse Street",
+        "amenity": "restaurant",
+        "capacity": "30",
+        "cuisine": "thai",
+        "delivery": "yes",
+        "indoor_seating": "yes",
+        "name": "Camile",
+        "old_name": "Bank of Ireland",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+3531-677-5900",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.camile.ie/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2493779,
+          53.3442681
+        ]
+      },
+      "id": "node/4046019696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4163833954",
+        "addr:housenumber": "4",
+        "addr:street": "Crown Alley",
+        "amenity": "restaurant",
+        "cuisine": "fish_and_chips",
+        "delivery": "yes",
+        "name": "Leo Burdock",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Sa 11:30-04:00; Su 12:00-22:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.leoburdock.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2627681,
+          53.345301
+        ]
+      },
+      "id": "node/4163833954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4194401694",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Pho Ta",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2625399,
+          53.3449807
+        ]
+      },
+      "id": "node/4194401694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4226083112",
+        "addr:city": "Dublin",
+        "addr:housenumber": "65",
+        "addr:street": "Dorset Street Upper",
+        "amenity": "restaurant",
+        "name": "Pasha restaurant",
+        "phone": "018980888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2640924,
+          53.3570644
+        ]
+      },
+      "id": "node/4226083112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4256571991",
+        "amenity": "restaurant",
+        "name": "The Exchange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2585675,
+          53.3454404
+        ]
+      },
+      "id": "node/4256571991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4302534684",
+        "addr:city": "Dublin",
+        "addr:housenumber": "20",
+        "addr:street": "Mountjoy Square East",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "El Grito Taqueria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2566513,
+          53.3573554
+        ]
+      },
+      "id": "node/4302534684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361709473",
+        "addr:housenumber": "12",
+        "addr:street": "Dame Court, Dublin 2",
+        "amenity": "restaurant",
+        "description": "1st Floor, over Honest to Goodness",
+        "name": "Honest Pizza",
+        "opening_hours": "Tu-Th 17:00-22:00; Fr, Sa 12:00-22:00",
+        "phone": "+353 1 6337727",
+        "website": "https://www.honestpizza.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263857,
+          53.3434413
+        ]
+      },
+      "id": "node/4361709473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419601490",
+        "addr:housenumber": "16",
+        "addr:street": "Parnell Square North",
+        "amenity": "restaurant",
+        "name": "Chapter One",
+        "name:en": "Chapter One",
+        "wikidata": "Q2129707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2639223,
+          53.3543759
+        ]
+      },
+      "id": "node/4419601490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443896779",
+        "addr:city": "Dublin",
+        "addr:housenumber": "5",
+        "addr:street": "Cow's Lane",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Piglet Wine Bar",
+        "opening_hours": "We-Su 12:00-21:30",
+        "phone": "+353 1 707 9786",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2689227,
+          53.3442032
+        ]
+      },
+      "id": "node/4443896779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4458833291",
+        "amenity": "restaurant",
+        "name": "Kokoro Bento - The Ramen Bar",
+        "name:en": "Kokoro Bento - The Ramen Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2628322,
+          53.3415391
+        ]
+      },
+      "id": "node/4458833291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4469791294",
+        "addr:housenumber": "5",
+        "addr:street": "Aston Quay",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/thehungrymexicandublin",
+        "cuisine": "mexican",
+        "delivery": "yes",
+        "email": "thehungrymexican@gmail.com",
+        "name": "The Hungry Mexican",
+        "old_name": "Gypsy Rose Rock And Blues Bar",
+        "old_name_1": "GA Electrical",
+        "opening_hours": "Mo-Su 14:00-22:00",
+        "outdoor_seating": "no",
+        "phone": "+353-1-5559057",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.thehungrymexican.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.261402,
+          53.3462788
+        ]
+      },
+      "id": "node/4469791294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4550662494",
+        "amenity": "restaurant",
+        "name": "Ray's",
+        "opening_hours": "Mo,Tu 12:00-23:30; We-Sa 12:00-01:00+; Su 13:00-24:00+",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.263418,
+          53.3445413
+        ]
+      },
+      "id": "node/4550662494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558745794",
+        "amenity": "restaurant",
+        "name": "The Hairy Lemon",
+        "name:en": "The Hairy Lemon",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2638973,
+          53.34124
+        ]
+      },
+      "id": "node/4558745794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4633258684",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Rosa Madre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2638996,
+          53.3448743
+        ]
+      },
+      "id": "node/4633258684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4665638190",
+        "addr:housenumber": "42",
+        "addr:street": "Ormond Quay Lower",
+        "amenity": "restaurant",
+        "name": "The Woollen Mills Eating House",
+        "name:en": "The Woollen Mills Eating House",
+        "website": "http://thewoollenmills.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634484,
+          53.3466252
+        ]
+      },
+      "id": "node/4665638190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4687846218",
+        "amenity": "restaurant",
+        "name": "The Old Music Shop",
+        "source": "local knowledge",
+        "website": "http://www.oldmusicshop.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2636843,
+          53.3548799
+        ]
+      },
+      "id": "node/4687846218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4716719089",
+        "amenity": "restaurant",
+        "name": "The Hot Bubble",
+        "name:en": "The Hot Bubble",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2689383,
+          53.3492429
+        ]
+      },
+      "id": "node/4716719089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730984595",
+        "addr:city": "Dublin",
+        "addr:housename": "Castle House",
+        "addr:housenumber": "73-83",
+        "addr:postcode": "D02 WK13",
+        "addr:street": "South Great George's Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "San Lorenzo's",
+        "website": "https://www.sanlorenzos.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2646784,
+          53.3432925
+        ]
+      },
+      "id": "node/4730984595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754913027",
+        "addr:street": "O'Connell Street Upper",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Guud Day",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2608965,
+          53.3521515
+        ]
+      },
+      "id": "node/4754913027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4759874821",
+        "addr:street": "North Lotts",
+        "amenity": "restaurant",
+        "cuisine": "brazilian;sausage;chicken;fish;noodles;tea",
+        "internet_access": "wlan",
+        "name": "Fusion Grill",
+        "name:en": "Fusion Grill",
+        "name:es": "Fusion Grill",
+        "name:pt": "Fusion Grill",
+        "opening_hours": "Mo-Su 12:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2630623,
+          53.3473991
+        ]
+      },
+      "id": "node/4759874821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837054000",
+        "amenity": "restaurant",
+        "cuisine": "kebab",
+        "name": "El Bahia",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2608029,
+          53.3427983
+        ]
+      },
+      "id": "node/4837054000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4851727922",
+        "addr:housenumber": "119",
+        "addr:street": "Capel Street",
+        "amenity": "restaurant",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Arisu Sushi & BBQ",
+        "name:en": "Arisu Sushi & BBQ",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2691185,
+          53.3489146
+        ]
+      },
+      "id": "node/4851727922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4854013874",
+        "addr:city": "Dublin",
+        "addr:housenumber": "6",
+        "addr:postcode": "4",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "contact:email": "vcranelane@gmail.com",
+        "contact:facebook": "https://www.facebook.com/AperitivoDublin/",
+        "contact:instagram": "https://www.instagram.com/aperitivo_dublin/",
+        "contact:website": "https://www.vtemplebar.com/",
+        "cuisine": "pizza;sandwich",
+        "delivery": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Aperitivo",
+        "opening_hours": "Mo-Th 08:00-22:00; Fr-Sa 08:00-23:30; Su 12:00-20:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2672527,
+          53.3444428
+        ]
+      },
+      "id": "node/4854013874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4861898821",
+        "amenity": "restaurant",
+        "name": "Dera (Pakistan & Afghan Food)",
+        "name:en": "Dera (Pakistan & Afghan Food)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2589712,
+          53.3537659
+        ]
+      },
+      "id": "node/4861898821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884316957",
+        "addr:housenumber": "185",
+        "addr:street": "Townsend Street",
+        "amenity": "restaurant",
+        "capacity": "15",
+        "cuisine": "sushi",
+        "name": "Ku Raudo Sushi & Bento",
+        "phone": "+35315570728",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2557784,
+          53.3458262
+        ]
+      },
+      "id": "node/4884316957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884359235",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:housenumber": "12",
+        "addr:postcode": "D02 VY27",
+        "addr:street": "Eustace Street",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "email": "pintxo@porthouse.ie",
+        "name": "The Port House Pintxo",
+        "phone": "+35316728590",
+        "website": "https://www.porthouse.ie/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2650503,
+          53.3451113
+        ]
+      },
+      "id": "node/4884359235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044580222",
+        "addr:housenumber": "36",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Sumaki",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2675204,
+          53.3443451
+        ]
+      },
+      "id": "node/5044580222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084277780",
+        "addr:city": "Dublin",
+        "addr:housenumber": "12",
+        "addr:street": "Temple Bar Square",
+        "amenity": "restaurant",
+        "cuisine": "irish",
+        "name": "The Quay's Irish Restaurant",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2630923,
+          53.3456424
+        ]
+      },
+      "id": "node/5084277780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5155678221",
+        "addr:housenumber": "5",
+        "addr:street": "Crow Street",
+        "amenity": "restaurant",
+        "name": "Il Vicoletto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2637108,
+          53.3446082
+        ]
+      },
+      "id": "node/5155678221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5169129421",
+        "addr:city": "Dublin",
+        "addr:housenumber": "39,40",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Beef & Lobster",
+        "opening_hours": "Mo-Th 17:00-22:30; Fr 12:00-22:30; Sa-Su 09:00-22:30",
+        "outdoor_seating": "yes",
+        "phone": "+35315313810",
+        "website": "https://beefandlobster.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.267478,
+          53.3441701
+        ]
+      },
+      "id": "node/5169129421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5169413432",
+        "amenity": "restaurant",
+        "name": "Dollard & Co.",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2672109,
+          53.3452889
+        ]
+      },
+      "id": "node/5169413432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219702777",
+        "addr:city": "Dublin",
+        "addr:housenumber": "61",
+        "addr:street": "O'Connell Street Upper",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Flanagans Restaurant",
+        "opening_hours": "Mo-Sa 09:00-23:00; Su 09:00-22:30",
+        "phone": "+35318731388",
+        "website": "http://www.flanagansdublin.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2609607,
+          53.350314
+        ]
+      },
+      "id": "node/5219702777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5321075322",
+        "addr:housenumber": "24",
+        "addr:street": "Essex Street East",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "The Shack Restaurant",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+353-1-679-0043",
+        "smoking": "no",
+        "website": "http://www.shackrestaurant.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2644003,
+          53.3454386
+        ]
+      },
+      "id": "node/5321075322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333712576",
+        "addr:housenumber": "6",
+        "addr:street": "Ormond Quay Upper",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/pg/bagotshutton1829/",
+        "contact:instagram": "https://www.instagram.com/bagotshutton/",
+        "contact:twitter": "https://twitter.com/bagotshutton",
+        "email": "info@bagotshutton.com",
+        "name": "Bagots Hutton",
+        "opening_hours": "Mo-Th 07:00-23:00, Fr 07:00-01:30, Sa 10:00-01:30, Su 12:00-18:00",
+        "outdoor_seating": "yes",
+        "phone": "+353-1-8788118",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2687857,
+          53.3461037
+        ]
+      },
+      "id": "node/5333712576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5347880533",
+        "addr:city": "Dublin",
+        "addr:housename": "The Westin Dublin",
+        "addr:street": "Westmoreland Street",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "email": "reservations@morelandsgrill.com",
+        "name": "Morelands Grill",
+        "opening_hours": "Mo-Fr 12:00-15:00, 17:45-21:45; Sa-Su 12:30-15:30, 17:45-21:45",
+        "outdoor_seating": "no",
+        "phone": "+353-1-6451318",
+        "smoking": "no",
+        "takeaway": "no",
+        "website": "http://www.morelandsgrill.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2589218,
+          53.3457121
+        ]
+      },
+      "id": "node/5347880533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5366352910",
+        "addr:city": "Dublin",
+        "addr:housenumber": "14",
+        "addr:street": "Aston Quay",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "email": "templebar@pablopicante.com",
+        "name": "Pablo Picante",
+        "opening_hours": "Mo-Th 11:30-22:00, Fr-Sa 11:30-23:00, Su 12:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+353-1-6798737",
+        "smoking": "no",
+        "website": "http://pablopicante.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2605775,
+          53.3464639
+        ]
+      },
+      "id": "node/5366352910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5376941063",
+        "addr:street": "Liffey Street Lower",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "The Yarn",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2635581,
+          53.3468221
+        ]
+      },
+      "id": "node/5376941063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5376983467",
+        "addr:housenumber": "20",
+        "addr:street": "Liffey Street Lower",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2636534,
+          53.3476607
+        ]
+      },
+      "id": "node/5376983467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5404670727",
+        "addr:housenumber": "77",
+        "addr:street": "Dorset Street Upper",
+        "amenity": "restaurant",
+        "brand": "Wasabi",
+        "brand:wikidata": "Q23891278",
+        "brand:wikipedia": "en:Wasabi (restaurant)",
+        "cuisine": "japanese",
+        "delivery": "yes",
+        "name": "Wasabi",
+        "opening_hours": "Su-Th 12:00-23:00, Fr-Sa 12:00-23:45",
+        "outdoor_seating": "no",
+        "phone": "+353-1-8308658",
+        "website": "https://www.wasabi.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2645196,
+          53.3571426
+        ]
+      },
+      "id": "node/5404670727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5405915955",
+        "addr:city": "Dublin",
+        "addr:street": "Dorset Street Lower",
+        "amenity": "restaurant",
+        "name": "Wasabi Grill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2633135,
+          53.3577224
+        ]
+      },
+      "id": "node/5405915955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5516020730",
+        "amenity": "restaurant",
+        "brand": "Nando's",
+        "brand:wikidata": "Q3472954",
+        "brand:wikipedia": "en:Nando's",
+        "cuisine": "chicken;portuguese",
+        "name": "Nando's",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2620833,
+          53.3432778
+        ]
+      },
+      "id": "node/5516020730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5585303558",
+        "addr:housenumber": "1",
+        "addr:street": "Frenchman's Lane",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Zucconi Sushi Bar",
+        "outdoor_seating": "no",
+        "phone": "+353 83 473 3724",
+        "website": "https://www.facebook.com/zucconisushibar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2535396,
+          53.3499811
+        ]
+      },
+      "id": "node/5585303558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5590668029",
+        "addr:city": "Dublin",
+        "addr:postcode": "D01 PP66",
+        "addr:street": "Great Denmark Street",
+        "amenity": "restaurant",
+        "cuisine": "regional;pizza;burger;steak;seasonal;irish",
+        "description": "The Belvedere Bar & Grill is the perfect place to begin an evening, or wind down after a long day exploring the city. Superb Dublin city centre dining.",
+        "email": "info@belvederehotel.ie",
+        "name": "Belvedere Grill",
+        "opening_hours": "Mo-Su 09:30-21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2623303,
+          53.3550481
+        ]
+      },
+      "id": "node/5590668029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592770625",
+        "addr:city": "Dublin",
+        "addr:housenumber": "1",
+        "addr:postcode": "D08 N592",
+        "addr:street": "Pudding Row",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Pinocchio",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2683257,
+          53.3446464
+        ]
+      },
+      "id": "node/5592770625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5629604921",
+        "addr:housenumber": "1",
+        "addr:street": "Essex Street East",
+        "amenity": "restaurant",
+        "name": "Roberta's Restaurant, Bar & Terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2673085,
+          53.3450911
+        ]
+      },
+      "id": "node/5629604921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5691313736",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Diwali",
+        "old_name": "Nagina",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2646867,
+          53.3429088
+        ]
+      },
+      "id": "node/5691313736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5724057122",
+        "addr:city": "Dublin",
+        "addr:housenumber": "13",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "email": "info@fishshack.ie",
+        "name": "Fish Shack Cafe",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "phone": "+353 1 5440700",
+        "website": "https://fishshack.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2673553,
+          53.344751
+        ]
+      },
+      "id": "node/5724057122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5892492050",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:housenumber": "13-17",
+        "addr:postcode": "D02 TF98",
+        "addr:street": "Dawson Street",
+        "amenity": "restaurant",
+        "brand": "The Ivy Collection",
+        "brand:wikidata": "Q108197462",
+        "contact:instagram": "https://www.instagram.com/theivydublin/",
+        "cuisine": "british",
+        "name": "The Ivy",
+        "opening_hours": "Mo-Th 07:00-00:30, Fr 07:00-00:30, Sa 09:00-00:30, Su BH 09:00-12:30",
+        "operator": "The Ivy Collection",
+        "outdoor_seating": "no",
+        "phone": "+353-1-6950744",
+        "smoking": "outside",
+        "toilets:wheelchair": "yes",
+        "website": "https://theivydublin.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.258002,
+          53.3414179
+        ]
+      },
+      "id": "node/5892492050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960677658",
+        "addr:city": "Dublin",
+        "addr:street": "Fownes Street Upper",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "name": "The Seafood Cafe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634438,
+          53.344986
+        ]
+      },
+      "id": "node/5960677658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052834703",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Bunsen",
+        "opening_hours": "Mo-We 12:00-21:30,Th-Sa 12:00-22:30,Su 13:00-21:30",
+        "phone": "35316521022",
+        "website": "http://Bunsen.ie",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2600119,
+          53.3412362
+        ]
+      },
+      "id": "node/6052834703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6068463885",
+        "amenity": "restaurant",
+        "name": "Platform 61",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2630215,
+          53.3415835
+        ]
+      },
+      "id": "node/6068463885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6113650106",
+        "addr:housename": "7 Castle House",
+        "addr:street": "South Great George's Street",
+        "amenity": "restaurant",
+        "email": "info@777.ie",
+        "name": "777",
+        "outdoor_seating": "no",
+        "phone": "+353-1-4254052",
+        "smoking": "no",
+        "website": "https://777.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2646809,
+          53.3431749
+        ]
+      },
+      "id": "node/6113650106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6113672804",
+        "addr:street": "South Great George's Street",
+        "amenity": "restaurant",
+        "contact:instagram": "https://www.instagram.com/pipizzas/",
+        "cuisine": "pizza",
+        "fixme": "Check exact location",
+        "name": "Pi",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "website": "https://www.pipizzas.ie/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2646742,
+          53.3435104
+        ]
+      },
+      "id": "node/6113672804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6128203801",
+        "amenity": "restaurant",
+        "cuisine": "mexian;italian",
+        "name": "Mexico to Rome",
+        "outdoor_seating": "no",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2643978,
+          53.3457261
+        ]
+      },
+      "id": "node/6128203801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6144855291",
+        "addr:housenumber": "64",
+        "addr:street": "Capel Street",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "name": "On The Pig's Back Eatery",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2692521,
+          53.3498993
+        ]
+      },
+      "id": "node/6144855291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6144874587",
+        "addr:city": "Dublin",
+        "addr:housenumber": "15/16",
+        "addr:street": "Chatham Street",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/GlasRestaurant/",
+        "contact:instagram": "https://www.instagram.com/glasrestaurant/",
+        "contact:phone": "+353-1-672-4534",
+        "contact:twitter": "https://twitter.com/GlasRestaurant",
+        "contact:website": "https://glasrestaurant.ie/",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "email": "info@glasrestaurant.ie",
+        "name": "Glas",
+        "name:en": "Glas",
+        "opening_hours": "Mo-Th 12:00-15:30,17:00-22:00; Fr-Sa 12:00-15:30,17:00-22:30; Su 12:00-15:30,17:00-21:30",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2620398,
+          53.3409699
+        ]
+      },
+      "id": "node/6144874587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6150589816",
+        "addr:street": "Crown Alley",
+        "amenity": "restaurant",
+        "cuisine": "irish;seafood",
+        "name": "Klaw",
+        "opening_hours": "Mo-We 12:00-22:00; Th-Fr 12:00-23:00; Sa 11:00-23:00; Su 11:00-22:00",
+        "website": "http://www.klaw.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2629149,
+          53.3453947
+        ]
+      },
+      "id": "node/6150589816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6165565685",
+        "addr:city": "Dublin",
+        "addr:housenumber": "101",
+        "addr:postcode": "D01 A2F4",
+        "addr:street": "Dorset Street Upper",
+        "amenity": "restaurant",
+        "contact:facebook": "VeginityDublin",
+        "contact:instagram": "veginitydublin",
+        "contact:phone": "+353 1 535 9067",
+        "contact:tripadvisor": "10484128",
+        "contact:twitter": "veginity",
+        "contact:website": "https://www.veginity.com",
+        "diet:vegan": "only",
+        "level": "0",
+        "name": "Veginity",
+        "outdoor_seating": "no",
+        "ref:vatin": "IE3410822KH",
+        "reservation": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2658927,
+          53.3554127
+        ]
+      },
+      "id": "node/6165565685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6183320315",
+        "addr:city": "Dublin",
+        "addr:housenumber": "38/39",
+        "addr:street": "Ormond Quay Lower",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "email": "info@yamamorisushi.ie",
+        "name": "Yamamori Sushi",
+        "opening_hours": "Su-Th 12:00-22:30; Fr-Sa 12:00-23:30",
+        "phone": "+353 1 8720003",
+        "website": "http://www.yamamorisushi.ie",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2638767,
+          53.3466181
+        ]
+      },
+      "id": "node/6183320315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6222048985",
+        "amenity": "restaurant",
+        "name": "Platform 61",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2632029,
+          53.3416209
+        ]
+      },
+      "id": "node/6222048985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6223575164",
+        "addr:housenumber": "3",
+        "addr:street": "Blessington Street",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/WoodFireCafe2018/",
+        "cuisine": "pizza",
+        "email": "wfcpizzeria@gmail.com",
+        "name": "Wood Fire Cafe",
+        "old_name": "This and That",
+        "old_name_1": "Veggie Market",
+        "outdoor_seating": "no",
+        "phone": "+353-1-8603529",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2656732,
+          53.3563112
+        ]
+      },
+      "id": "node/6223575164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6255720686",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "SIX",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2615935,
+          53.3531259
+        ]
+      },
+      "id": "node/6255720686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6258704969",
+        "amenity": "restaurant",
+        "brand": "Freshii",
+        "brand:wikidata": "Q5503051",
+        "brand:wikipedia": "en:Freshii",
+        "cuisine": "salad",
+        "name": "Freshii",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2653366,
+          53.3442715
+        ]
+      },
+      "id": "node/6258704969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6300255203",
+        "addr:city": "Dublin",
+        "addr:housenumber": "1",
+        "addr:street": "Gardiner Street Lower",
+        "amenity": "restaurant",
+        "name": "One Society",
+        "opening_hours": "Mo off; Tu-Fr 7:30-21:00; Sa-Su 9:30-21:00",
+        "website": "https://www.onesociety.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2565063,
+          53.354098
+        ]
+      },
+      "id": "node/6300255203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6416717016",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "indoor_seating": "yes",
+        "name": "Sano Pizza",
+        "outdoor_seating": "yes",
+        "website": "https://sano.pizza/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2678497,
+          53.3442379
+        ]
+      },
+      "id": "node/6416717016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482450385",
+        "addr:housenumber": "21",
+        "addr:street": "Store Street",
+        "amenity": "restaurant",
+        "name": "Il Vignardo Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2528207,
+          53.3499928
+        ]
+      },
+      "id": "node/6482450385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6544830662",
+        "addr:city": "Dublin",
+        "addr:housenumber": "95",
+        "addr:street": "Talbot Street",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "The Italian Connection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2566705,
+          53.3502823
+        ]
+      },
+      "id": "node/6544830662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6562908086",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Boef",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2620134,
+          53.3427677
+        ]
+      },
+      "id": "node/6562908086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6568359164",
+        "addr:housenumber": "3",
+        "addr:street": "Temple Lane South",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "indoor_seating": "yes",
+        "name": "Aleena",
+        "outdoor_seating": "no",
+        "phone": "+35316799833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2643693,
+          53.3446217
+        ]
+      },
+      "id": "node/6568359164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6695814985",
+        "amenity": "restaurant",
+        "name": "Smoking Bones",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2655907,
+          53.3451821
+        ]
+      },
+      "id": "node/6695814985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6802550385",
+        "addr:housenumber": "37",
+        "addr:street": "Upper Abbey Street",
+        "amenity": "restaurant",
+        "name": "Takara Ramen & Deli Sushi Bar",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2640674,
+          53.3478352
+        ]
+      },
+      "id": "node/6802550385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6982750390",
+        "amenity": "restaurant",
+        "name": "V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2668974,
+          53.3444951
+        ]
+      },
+      "id": "node/6982750390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6984776457",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:street": "William Street South",
+        "amenity": "restaurant",
+        "name": "The Port House",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2619754,
+          53.3428142
+        ]
+      },
+      "id": "node/6984776457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6984776461",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Spice of India",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2622533,
+          53.342761
+        ]
+      },
+      "id": "node/6984776461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6984962681",
+        "amenity": "restaurant",
+        "name": "Pink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2633199,
+          53.3412415
+        ]
+      },
+      "id": "node/6984962681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7233478050",
+        "amenity": "restaurant",
+        "name": "Coppinger Row",
+        "website": "https://www.coppingerrow.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2621471,
+          53.3419969
+        ]
+      },
+      "id": "node/7233478050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7263997585",
+        "addr:city": "Dublin",
+        "addr:housenumber": "3",
+        "addr:street": "City Quay",
+        "amenity": "restaurant",
+        "name": "As One",
+        "opening_hours": "Mo-Fr 08:00-15:30; Sa 10:30-15:30",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2507468,
+          53.3468977
+        ]
+      },
+      "id": "node/7263997585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7798570985",
+        "amenity": "restaurant",
+        "name": "Isabelle's Restaurant & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2590704,
+          53.3411564
+        ]
+      },
+      "id": "node/7798570985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7878897386",
+        "addr:housenumber": "3",
+        "addr:street": "Bedford Row",
+        "amenity": "restaurant",
+        "name": "Banyi Japanese Dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2619449,
+          53.3458978
+        ]
+      },
+      "id": "node/7878897386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8003490853",
+        "addr:city": "Dublin",
+        "addr:housenumber": "153",
+        "addr:street": "Capel Street",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Brother Hubbard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2684435,
+          53.3471313
+        ]
+      },
+      "id": "node/8003490853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8287312379",
+        "addr:city": "Dublin",
+        "addr:housenumber": "4,6",
+        "addr:street": "North King Street",
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "delivery": "yes",
+        "facebook": "https://www.facebook.com/elpatronireland/",
+        "name": "El Patron",
+        "opening_hours": "Tu-Fr 12:30-15:00,17:30-21:00; Sa 13:00-21:00",
+        "phone": "+353 1 874 7219",
+        "takeaway": "yes",
+        "website": "https://www.elpatron.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2708389,
+          53.3507525
+        ]
+      },
+      "id": "node/8287312379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8423521717",
+        "addr:city": "Dublin",
+        "addr:housenumber": "27",
+        "addr:postcode": "D07 HN12",
+        "addr:street": "Mary Street Little",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "email": "bulletrestaurant@gmail.com",
+        "name": "Bullet Duck & Dumplings",
+        "name:zh-Hans": "港式嘛開心",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "phone": "+35318720099",
+        "website": "https://bulletrestaurantco.ie/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2692726,
+          53.3482737
+        ]
+      },
+      "id": "node/8423521717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8644055089",
+        "addr:housenumber": "5",
+        "addr:street": "Bachelors Walk",
+        "amenity": "restaurant",
+        "name": "Kakilang Noms",
+        "opening_hours": "Mo-Sa 12:00-20:00; Su 12:00-19:30",
+        "phone": "+353 1 8788172",
+        "website": "kakilang.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2624904,
+          53.3469075
+        ]
+      },
+      "id": "node/8644055089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8974054247",
+        "addr:city": "Dublin",
+        "addr:housenumber": "53",
+        "addr:postcode": "D01 E0H2",
+        "addr:street": "Capel Street",
+        "amenity": "restaurant",
+        "cuisine": "malaysian",
+        "name": "Kopitiam",
+        "opening_hours": "Th-Tu 12:00-21:00",
+        "phone": "+35318734659",
+        "website": "www.kopitiam.ie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.268923,
+          53.3492015
+        ]
+      },
+      "id": "node/8974054247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9054455837",
+        "addr:city": "Dublin",
+        "addr:housenumber": "67",
+        "addr:street": "Middle Abbey Street",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "Anns House",
+        "phone": "01-8726722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2609869,
+          53.3481039
+        ]
+      },
+      "id": "node/9054455837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9399425577",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:housenumber": "32",
+        "addr:postcode": "D02 HX66",
+        "addr:street": "Clarendon Street",
+        "amenity": "restaurant",
+        "name": "Catch 22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2625442,
+          53.3410591
+        ]
+      },
+      "id": "node/9399425577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9423750036",
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:county": "Dublin",
+        "addr:housenumber": "7a",
+        "addr:postcode": "D02 R990",
+        "addr:street": "Poolbeg Street",
+        "amenity": "restaurant",
+        "contact:website": "https://www.gursha.ie",
+        "cuisine": "african;ethiopian",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Gursha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2558817,
+          53.3468905
+        ]
+      },
+      "id": "node/9423750036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9825422524",
+        "amenity": "restaurant",
+        "name": "Wishbone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2666251,
+          53.354767
+        ]
+      },
+      "id": "node/9825422524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983264564",
+        "addr:city": "Dublin",
+        "addr:housenumber": "29",
+        "addr:postcode": "D02 RX95",
+        "addr:street": "Drury Street",
+        "amenity": "restaurant",
+        "name": "Loose Canon Cheese & Wine",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2634239,
+          53.3424798
+        ]
+      },
+      "id": "node/9983264564"
+    }
+  ]
+}

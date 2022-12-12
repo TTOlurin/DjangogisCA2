@@ -6,6 +6,27 @@ from django.urls import reverse_lazy
 from django.views import generic
 from .models import Profile
 from django.shortcuts import render
+from django.views import generic
+from django.contrib.gis.geos import fromstr
+from django.contrib.gis.db.models.functions import Distance
+#from .models import Restaurants
+
+longitude = -6.3831
+latitude = 53.404639
+
+user_location = Point(latitude,longitude, srid=4326)
+
+# class Home(generic.ListView):
+#     model = Restaurants
+#     context_object_name = 'restaurants'
+#     queryset = Restaurants.objects.annotate(distance=Distance('location',
+#     user_location)
+#     ).order_by('distance')[0:6]
+#     print(queryset.values())
+#     template_name = 'index.html'
+#
+# home = Home.as_view
+
 
 class SignUpView(generic.CreateView):
     form_class = UserCreationForm
@@ -17,7 +38,6 @@ class SignUpView(generic.CreateView):
 @login_required
 def update_database(request):
     my_location = request.POST.get("point", None)
-    #my_location = "53.408545, -6.394"
     if not my_location:
         return JsonResponse({"message": f"No location found. {my_location}"}, status=400)
     try:

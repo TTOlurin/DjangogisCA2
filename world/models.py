@@ -27,6 +27,13 @@ def manage_user_profile(sender, instance, created, **kwargs):
         Profile.objects.create(user=instance)
 
 
+# class Restaurants(models.Model):
+#     name = models.CharField(max_length=100)
+#     location = models.PointField()
+#     address = models.CharField(max_length=100)
+#     city = models.CharField(max_length=50)
+
+
 class WorldBorder(models.Model):
     # Regular Django fields corresponding to the attributes in the
     # world borders shapefile.

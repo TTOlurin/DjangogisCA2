@@ -21,11 +21,13 @@ from world import views
 
 
 
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('accounts/', include("world.urls")),
     path('accounts/', include("django.contrib.auth.urls")),
     path('updatedb/', views.update_database, name='update_db'),
-    path('', TemplateView.as_view(template_name='home.html'), name='home'),
+    path('home/', TemplateView.as_view(template_name='home.html'), name='home'),
     path('map/', TemplateView.as_view(template_name='map.html'), name='map'),
+    path('', include('pwa.urls')),
 ]
