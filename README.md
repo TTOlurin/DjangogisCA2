@@ -40,10 +40,15 @@ Unfortunately, I was unable to deploy the web application due to issues while bu
 ![image](https://user-images.githubusercontent.com/71713573/207322263-a8850815-3ab5-412f-8002-b60b35f5222f.png)
 ![image](https://user-images.githubusercontent.com/71713573/206997059-4aeed83e-0146-445f-8df4-49e309add4f5.png)
 
-
+</br>
 However, this is something I am working towards fixing and I will continue to search for a solution. In the meantime, I did buy a domain, titiolurin.online,
-and I created a Digital Ocean Droplet for deployment.
+and I created a Digital Ocean Droplet for deployment.</br>
 
+To deploy, the steps I would follow are: </br>
+Make a network</br>
+Make container</br> 
+Put in configuration files</br>
+Create a container on digital ocean using the image I would create on my local machine.
 
 
 
