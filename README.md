@@ -37,7 +37,7 @@ Developer tools show us that the database is being updated each time the user cl
 ![image](https://user-images.githubusercontent.com/71713573/206996247-464a7d4d-c41f-44cc-9b82-1e25230ce7c9.png)
 
 Unfortunately, I was unable to deploy the web application due to issues while building my docker image. The error is pictured below.<br />
-![image](https://user-images.githubusercontent.com/71713573/206996938-0a65f711-8bc6-4e71-866d-d5e0d15cef5a.png)
+![image](https://user-images.githubusercontent.com/71713573/207322263-a8850815-3ab5-412f-8002-b60b35f5222f.png)
 ![image](https://user-images.githubusercontent.com/71713573/206997059-4aeed83e-0146-445f-8df4-49e309add4f5.png)
 
 
